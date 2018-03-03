@@ -4,7 +4,7 @@ title: "About the CTO"
 author: "Ron Sweeney"
 categories: basenube
 tags: [sample]
-image: cuba-4.jpg
+image: blank.png
 ---
 
 Hi there! I'm Ron and I run BASENUBE.  I’m a Full Stack Architect that likes to build things with others that want to improve healthcare through liberating health data.  
