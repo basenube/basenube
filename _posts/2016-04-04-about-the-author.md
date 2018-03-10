@@ -2,7 +2,7 @@
 layout: post
 title: "About the CTO"
 author: "Ron Sweeney"
-categories: basenube
+categories: indexes
 tags: [sample]
 image: blank.png
 ---
