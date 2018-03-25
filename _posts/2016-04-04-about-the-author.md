@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "GCP"
 author: "Ron Sweeney"
 categories: indexes
 tags: [sample]
