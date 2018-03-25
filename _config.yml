@@ -15,9 +15,13 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "BASE NUBE"
+<<<<<<< HEAD
 description:	       "Managed Data Solutions on Google Cloud"
+=======
+description:	       "Managed Data Solutions on Google Cloud Platform"
+>>>>>>> 284f03f2da30f8da084b9debaa14de6f89acabcc
 author:              "Ron Sweeney"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+feed:
+  path: rss-feed.xml
