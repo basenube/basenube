@@ -1,38 +1,14 @@
-# Welcome to Bitcoin.org's Codebase
+Matt Grey Design
+--------
+### Release 1.0.1
 
-Current Build Status: ![Build Status](https://travis-ci.org/bitcoin-dot-org/bitcoin.org.svg?branch=master)
+Personal portfolio made with Jekyll
 
-Live site: [Bitcoin.org](https://bitcoin.org)
+## Licenses
 
-Report problems or help improve the site by opening a [new issue](https://github.com/bitcoin-dot-org/bitcoin.org/issues/new) or [pull request](https://github.com/bitcoin-dot-org/bitcoin.org/compare).
+### Underlying Source Code
+[GNU General Public License v3.0](LICENSE)
 
-## Earn Bitcoin for Contributing
-Open issues [labeled with "Bounty"](https://github.com/bitcoin-dot-org/bitcoin.org/labels/Bounty)
-have bounties on them. Viewing the issue will reveal the value of the bounty.
-Submit a pull request resolving the issue along with an accompanying note or
-comment containing a bitcoin address and automatically receive a payment in the
-amount of the bounty if it gets merged.
 
-## How to Participate
-The following quick guides will help you get started:
-
-+ [Becoming a Contributor](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/become-a-contributor.md)
-+ [Working with GitHub](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/working-with-github.md)
-+ [Setting Up Your Environment](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/setting-up-your-environment.md)
-+ [Improving Developer Documentation](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/contributing-to-developer-documentation.md)
-+ [Assisting with Translations](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/assisting-with-translations.md)
-+ [Managing Wallets](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/managing-wallets.md)
-+ [Adding Events, Release Notes and Alerts](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/adding-events-release-notes-and-alerts.md)
-+ [Adding Blog Posts](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/adding-blog-posts.md)
-+ [Miscellaneous / Other](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/docs/miscellaneous.md)
-
-### Code of Conduct
-
-Participation in this project is subject to a [Code of Conduct](https://github.com/bitcoin-dot-org/bitcoin.org/blob/master/CODE_OF_CONDUCT.md).
-
-### Donations
-
-Bitcoin.org is community supported: [3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa](bitcoin:3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa)
-
-### Questions?
-Please contact Will Binns ([will@bitcoin.org](mailto:will@bitcoin.org)) if you need help.
+### Content
+© Matthew Grey and himatt.com. Unauthorised use and/or duplication and adaptation of this material (all image formats, text and additional media files) without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Matthew Grey and/or himatt.com with appropriate and specific direction to the original content.

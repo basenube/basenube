@@ -1,20 +1,18 @@
 ---
-# This file is licensed under the MIT License (MIT) available on
-# http://opensource.org/licenses/MIT.
+layout: page
+title: "404"
+sitemap: false
+permalink: /404
 
-layout: base
-lang: en
-id: index
-title: Bitcoin
+intro: |
+  Sorry but this page could not be found, either it moved, or it never existed
+  in the first place.
+
+  [Return to homepage](/)
 ---
-<script>
-//Auto redirect to the appropriate language
-var langs={};{% for lang in site.langs %}{% if lang[0] != page.lang %}langs['{{ lang[0] }}']=true;{% endif %}{% endfor %}
-var lang=(navigator.language)?navigator.language:navigator.userLanguage;
-lang=lang.split('_')[0];
-if(!langs[lang])lang='en';
-window.location.href='/'+lang+'/';
-</script>
-<!--Fallback page, don't allow indexing-->
-<meta name="robots" content="noindex">
-{% include templates/index.html %}
+
+<div class="four-o-four-wrapper">
+  <div class="four-o-four">
+    {{ page.intro | markdownify }}
+  </div>
+</div>
