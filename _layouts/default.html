@@ -1,17 +1,8 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-
-{% include head.html %}
-
-<body>
-
-<div class="container">
-  {% include header.html %}
-  <div class="posts-wrapper">
+  {% include head.html %}
+  <body id="{{page.cssid}}">
     {{ content }}
-  </div>
-  {% include footer.html %}
-</div>
 
-</body>
+  </body>
 </html>

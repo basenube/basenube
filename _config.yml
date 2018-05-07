@@ -1,23 +1,10 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
+# Site settings
+title: MAYDAY.US
+email: info@mayone.us
+description: "MAYDAY.US - A Crowdfunded, Kickstarted SuperPAC to end all SuperPACs"
+baseurl: ''
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-sass:
-  sass_dir: assets/css
-  style: :nested
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "BASE NUBE"
-description:	       "Managed Data Solutions on Google Cloud Platform"
-author:              "Ron Sweeney"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-feed:
-  path: rss-feed.xml
+encoding: utf-8
+markdown: kramdown
+permalink: pretty
