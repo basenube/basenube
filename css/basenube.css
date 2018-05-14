@@ -25,13 +25,16 @@ body {
 
 }
 #footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
     height: 60px;
     background-color: #000;
   }
+.footer-block { margin: 20px 0; }
+
+
 
 .img-portfolio {
     margin-bottom: 30px;
