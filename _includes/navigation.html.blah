@@ -1,0 +1,68 @@
+ <!-- PANEL + TITLE USING COLUMNS + TITLE -->
+        <div class="panel panel-black">
+            <div class="panel-heading nav navbar panel-black">
+                <div class="row">
+                    <div class="col-xs-4">
+                         <a class="navbar-brand" href="{{url_base}}/index.html"><img src="img/basenube.png"/></a>
+                    </div>
+                  <div class="col-xs-5"><h4 class="pull-right"><small><strong>Twitch Status:</strong></small> <img data-twitch-channel="basenube"></h4>
+</div>
+                    <div class="col-xs-3">
+                            
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li>
+                                    <a href="{{url_base}}/about.html">About</a>
+                                </li>
+                                <li>
+                                    <a href="{{url_base}}/services.html">Services</a>
+                                </li>
+                                <li>
+                                    <a href="{{url_base}}/contact.html">Contact</a>
+                                </li>
+                                <li class="dropdown active">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="{{url_base}}/portfolio-1-col.html">HL7dataLAGO</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{url_base}}/portfolio-2-col.html">2 Column Portfolio</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{url_base}}/portfolio-3-col.html">3 Column Portfolio</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{url_base}}/portfolio-4-col.html">4 Column Portfolio</a>
+                                        </li>
+                                        <li class="active">
+                                            <a href="{{url_base}}/portfolio-item.html">Single Portfolio Item</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a href="{{url_base}}/blog-home-1.html">Blog Home 1</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{url_base}}/blog-home-2.html">Blog Home 2</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{url_base}}/blog-post.html">Blog Post</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                       
+                        </div>
+                    </div>
+                  
+                </div>
+            </div>
+            <div class="panel-body">Panel content</div>
+        </div>
+
