@@ -55,6 +55,7 @@ body {
 .nav >li >a {
     padding-top: 30px;
     padding-bottom: 30px;
+    font-size: 14px;
   }
  .navbar-toggle {
     padding: 10px;
