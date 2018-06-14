@@ -169,8 +169,7 @@ header.carousel .fill {
 	}
 }
 footer {
-    background-color: rgba(0, 0, 0, 0);
-
+    background-color: black;
     width: 100%;
     bottom: 0;
     font-weight: lighter;
@@ -179,7 +178,7 @@ footer {
 .footerHeader{
     width:100%;
     padding:1em;
-    background-color:rgba(0, 0, 0,0);
+    background-color:black;
     text-align:center;
     color:white;
 }
