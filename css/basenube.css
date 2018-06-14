@@ -169,7 +169,7 @@ header.carousel .fill {
 	}
 }
 footer {
-    background-color: rgba(44, 62, 80, 1.0);
+    background-color: rgba(0, 0, 0, 0);
 
     width: 100%;
     bottom: 0;
@@ -179,7 +179,7 @@ footer {
 .footerHeader{
     width:100%;
     padding:1em;
-    background-color:rgba(52, 73, 94,1.0);
+    background-color:rgba(0, 0, 0,0);
     text-align:center;
     color:white;
 }
