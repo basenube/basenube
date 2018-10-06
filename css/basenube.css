@@ -492,8 +492,8 @@ footer iframe {
     display:block;
 }
 #myCarousel .nav {
-	background:#eee;
+	/* background:#eee; */
 }
 #myCarousel .nav a {
-    border-radius:0px;
+    border-radius:1px;
 }
