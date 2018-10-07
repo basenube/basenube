@@ -140,22 +140,22 @@ header.carousel .fill {
     }
 }
 
-.colophon {
+.colophon
+{
 	border-top:1px solid $chalk;
 	overflow:hidden;
 	padding:rem(24) 0 rem(21);
+	
 	border-top:1px solid $nickel;
-}
 
-@include flex(row, space-between, center);
 	@include flex(column, center);
 
 	@include screen(portrait) {
 		height:rem(91);
 		padding:0;
-}
-
-		
+	
+		@include flex(row, space-between, center);
+	}
 
 	@include screen(landscape) {
 		flex-direction: column;
@@ -492,9 +492,8 @@ footer iframe {
     display:block;
 }
 #myCarousel .nav {
-	background:#000; 
+	/* background:#eee; */
 }
 #myCarousel .nav a {
     border-radius:1px;
-}
 }
