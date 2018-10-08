@@ -15,12 +15,21 @@ body {
 }
 
 a {
-	color: #C5C7C5 !important;
+	color: #416DE7 !important;
 }
 
 
 #black {
     background-color: black;
+
+}
+
+#centerme {
+	
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 
 }
 .panel-black {
