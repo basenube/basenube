@@ -15,13 +15,25 @@ body {
 }
 
 a {
-	color: #0029F6 !important;
+	/* color: #0029F6 !important; */
 }
 
 
 #black {
     background-color: black;
 
+}
+
+
+.nav-pills>li>a {
+    border-radius: 4px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    background-color: #0029F6;
+    color: #fff;
 }
 
 #centerme {
