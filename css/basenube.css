@@ -14,9 +14,34 @@ body {
     background-color: black;
 }
 
+a {
+	/* color: #0029F6 !important; */
+}
+
 
 #black {
     background-color: black;
+
+}
+
+
+.nav-pills>li>a {
+    border-radius: 4px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    background-color: #0029F6;
+    color: #fff;
+}
+
+#centerme {
+	
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 
 }
 .panel-black {
@@ -57,8 +82,8 @@ body {
   }
   
 .nav >li >a {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-size: 20px;
   }
  .navbar-toggle {
@@ -492,7 +517,7 @@ footer iframe {
     display:block;
 }
 #myCarousel .nav {
-	background:#000; 
+	/* background:#eee; */
 }
 #myCarousel .nav a {
     border-radius:1px;
