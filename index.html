@@ -47,6 +47,11 @@ layout: footer
         <img src="http://placehold.it/1200x400/dddddd/333333">
          <div class="carousel-caption">
           <h3>Headline</h3>
+          <div id="typed-strings">
+              <p>Typed.js is a <strong>JavaScript</strong> library.</p>
+              <p>It <em>types</em> out sentences.</p>
+          </div>
+          <span id="typed"></span>
           <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <a href="http://sevenx.de/demo/bootstrap-carousel/" target="_blank" class="label label-danger">Bootstrap 3 - Carousel Collection</a></p>
         </div>
       </div><!-- End Item -->
@@ -83,12 +88,7 @@ layout: footer
   </div><!-- End Carousel -->
 
   <script>
-import Typed from 'typed.js';
-
-var options = {
-  strings: ["<i>First</i> sentence.", "&amp; a second sentence."],
-  typeSpeed: 40
-}
-
-var typed = new Typed(".gar", options);
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings'
+      });
   </script>
