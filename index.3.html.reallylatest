@@ -16,11 +16,17 @@ layout: lindex
             <div class="item active img-responsive" style="background-color:#0029F6;color:white; height:400px; width:1200px;">
               <div class="row">
                 <div class="col-md-4">
-                  
+                    <div class="card">
+                        <img class="card-img-top" src="https://dummyimage.com/150x150/c7c7c7/000.png" alt="Card image cap">
+                        <div class="card-block p-3">
+                            <h4 class="card-title">Agnostic</h4>
+                            <p class="card-text">When an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                      <br/>
                         <img class="card-img-top img-responsive" src="img/whiteboard.png" alt="Card image cap">
                         <div class="card-block p-3">
                             <h3 class="card-title text-center">Your workload <span id="typed"></span></h3>
@@ -30,7 +36,14 @@ layout: lindex
                     </div>
                 </div>
                 <div class="col-md-4">
-                   
+                    <div class="card">
+                        <img class="card-img-top" src="https://dummyimage.com/150x150/c7c7c7/000.png" alt="Card image cap">
+                        <div class="card-block p-3">
+                            <p class="card-text text-center">Hire us for one provider, get another FREE.</p>
+                            <h3 class="card-title text-center">You say AWS, we do AWS + <span id="cloud"></span></h3>
+   
+                        </div>
+                    </div>
                 </div>
             </div>
           
