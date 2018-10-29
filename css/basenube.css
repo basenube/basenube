@@ -533,7 +533,6 @@ footer iframe {
     border-radius:1px;
 }
 
-
 .something {
     height: 200px;
     margin: 0 auto;
@@ -549,12 +548,10 @@ footer iframe {
     position: absolute;
     top: -50px;
     width: 100px;
-    
     -webkit-transform: rotate(-45deg);
   }
   
-  
-  .arrow-right span {
+.arrow-right span {
     color: #f5f5f5;
     font-family: sans-serif;
     font-size: 1.005em;
@@ -562,4 +559,4 @@ footer iframe {
     top: 78px;
     position: absolute;
     width: 80px;
-  }
+}
