@@ -1,6 +1,11 @@
+- name: Services
+  link: /services/
+- name: Stream
+  link: /stream/
 - name: Blog
   link: /blog/
 - name: About
   link: /about/
 - name: Contact
   link: /contact/
+
