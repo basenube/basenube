@@ -1,63 +1,29 @@
 ---
-layout: default
-
+title: About
+description: We've built an amazing team of developers, marketers, designers and sales people.
+image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 ---
 
-<!-- Page Heading/Breadcrumbs -->
-<div class="row">
-    <div class="col-lg-12">
-        <ol class="breadcrumb">
-            <li><a href="index.html">Home</a>
-            </li>
-            <li class="active">About</li>
-        </ol>
-    </div>
-</div>
-<!-- /.row -->
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Our Story</h1>
+			<p class="subtext editable">We have an extremely talented team whose sole goal is to bring you closer to the people around you.</p>
+		</div>
+	</div>
+</section>
 
-<!-- Intro Content -->
-<div class="row">
-    <div class="col-md-6">
-        <img class="img-responsive" src="img/ink.png" alt="">
-    </div>
-    <div class="col-md-6">
-        <h2>The Base of the Cloud</h2>
-        <p>Our consulting company and our services represent years of evolution and the ability to practice what we preach.
-        Having several successful years consulting and developing directly for the Healthcare industry as <a href="http://www.integrationrequired.com">Integration Required</a>, we (like everybody else) noticed
-        the trend in our tooling heading to cloud technologies to accomodate the needs of our own workloads and customers.  More importantly, we saw the limitations on our approach with 
-        engagements to be completely archaic and a classic case of adopting new ideas to add efficiency, then immediately negating it by bending it to accomodate old processes.  Also, our</p>
-        
-        
-        <p>For starters
-    </div>
-</div>
-<!-- /.row -->
-
-<!-- Our Customers -->
-<div class="row">
-    <div class="col-lg-12">
-        <h2 class="page-header">Our Customers</h2>
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="https://mms.businesswire.com/media/20171221005839/en/629816/5/Black_alternative.jpg?download=1" alt="">
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="http://thefield.io/wp-content/uploads/2016/09/iNTERSYSTEMS-NEW-LOGO.png" alt="">
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6">
-        <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
-    </div>
-</div>
-<!-- /.row -->
-<br/>
-<br/>
-<br/>
+<section class="pad">
+	<div class="container">
+		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
+		<ul class="staff">
+			{% for person in site.staff_members %}
+				<li>
+					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
+					<div class="position">{{ person.position }}</div>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>

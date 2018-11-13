@@ -1,46 +1,76 @@
-# jekyll-modern-business
+# Frisco
 
-This repo combines [Jekyll](http://jekyllrb.com) and the [Modern Business](http://startbootstrap.com/template-overviews/modern-business/ "Modern Business") template framework from [Start Bootstrap](http://startbootstrap.com/ "Start Bootstrap").
+App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
+Increase the web presence of a App with this configurable theme.
 
+![Frisco template screenshot](images/_screenshot.jpg)
 
-##Prior work
+Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-Prior work used to create this repo.
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-* The starting point is a vanilla [Jekyll](http://jekyllrb.com) installation using a `jekyll new` command.
-* Next the [Modern Business](http://startbootstrap.com/template-overviews/modern-business/ "Modern Business") template framework is applied.
-* HTML markup in the template is then refactored into `_layouts` and `_includes`.
-* The template is further refactored with several snippets from the [Jekyll-Snippets](https://github.com/mdo/jekyll-snippets) project.
+## Features
 
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination
+* Post category pages
+* Disqus comments for posts
+* Staff and author system
+* Configurable footer
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
+## Setup
 
-##Original readme — Start Bootstrap - Modern Business
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics and Disqus keys to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-For reference, here is the `readme` from the Start Bootstrap - Modern Business repo.
+## Develop
 
-### [Start Bootstrap](http://startbootstrap.com/) - [Modern Business](http://startbootstrap.com/template-overviews/modern-business/)
+Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+Install the dependencies with [Bundler](http://bundler.io/):
 
-#### Getting Started
+~~~bash
+$ bundle install
+~~~
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-#### Bugs and Issues
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
+## Editing
 
-#### Creator
+Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+### Posts
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* Add, update or remove a post in the *Posts* collection.
+* The **Staff Author** field links to members in the **Staff Members** collection.
+* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+### Contact Form
 
-#### Copyright and License
+* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+### Staff
+
+* Reused around the site to save multiple editing locations.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
