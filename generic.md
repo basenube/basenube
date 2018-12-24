@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: https://media.giphy.com/media/u48RAjDbc8fUGUU2an/giphy.gif
 nav-menu: true
 ---
 
