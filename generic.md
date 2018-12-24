@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: The Stream
+description: We do things in real time, often.
 image: https://media.giphy.com/media/u48RAjDbc8fUGUU2an/giphy.gif
 nav-menu: true
 ---
