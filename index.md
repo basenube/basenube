@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Team.'
+landing-title: 'Hi, Team.  We <span id="typed"></span>'
 description: null
 image: null
 author: null
