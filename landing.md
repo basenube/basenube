@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/gcp-next.png" alt="" data-position="center center" />
+			<img src="https://banner2.kisspng.com/20180415/viq/kisspng-google-cloud-platform-cloud-computing-amazon-web-s-cloud-computing-5ad2ea7501f2e9.621434391523772021008.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
