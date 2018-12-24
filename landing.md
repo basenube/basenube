@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/aws.png" alt="" data-position="top center" />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2000px-Amazon_Web_Services_Logo.svg.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
