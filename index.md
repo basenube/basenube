@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Team.  We <span id="typed"></span>'
+landing-title: 'Hi.  We <span id="typed"></span> cloud workloads.'
 description: null
 image: null
 author: null
