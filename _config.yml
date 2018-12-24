@@ -1,108 +1,36 @@
-# ----
-# Site
+# site settings
+title: baseNUBE
+subtitle: by HTML5 UP
+email: ron@basenube.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://www.basenube.com # the base hostname & protocol for your site
+author: Ron Sweeney
+street_address: 13 Mile Rd
+city: Royal Oak
+state: MI
+zip_code: 55555
+country: United States of America
+phone: (616) 217- 6516
 
-title: baseNUBE 
-url: "https://www.basenube.com"
-#baseurl: "https://www.basenube.com"
-google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: App marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/andrewbanchich
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/andrewbanchich
 
-# -----
-# Build
+# build settings
+markdown: kramdown
 
-timezone: Etc/UTC
-
-permalink: pretty
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-archives
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
-
-collections:
-  staff_members:
-    _hide_content: true
-
-paginate: 10
-paginate_path: "/blog/:num/"
-
-jekyll-archives:
-  enabled: ['categories']
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        image:
-          width: 2000
-          height: 1322
-          resize_style: cover
-        content:
-          width: 1500
-          height: 2000
-  -
-    scope:
-      path: "contact-success.html"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      image:
-        width: 2000
-        height: 1322
-        resize_style: cover
-      bottom_image:
-        width: 2000
-        height: 1322
-        resize_style: cover
-
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - Email
-  - RSS
-
-_comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+sass:
+  style: compressed
