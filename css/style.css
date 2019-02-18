@@ -1042,7 +1042,7 @@ figure:hover figcaption, figure:focus figcaption {
 .slides-text {
   z-index: 99;
   position: relative;
-  padding-top: 350px;
+  padding-top: 150px;
   max-width: 600px;
   margin: 0 auto;
 }
