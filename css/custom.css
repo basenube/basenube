@@ -13,3 +13,97 @@
 .monBouton:before{
      background-image : url(../img/discord.png);
 }
+
+.lnr-license {
+    color: #FFF;
+    font-size: 40px;
+    /* To get crisp results, use sizes that are
+    a multiple of 20; because Linearicons was
+    designed on a 20 by 20 grid. */
+  }
+
+  .lnr-rocket {
+    color: #FFF;
+    font-size: 40px;
+    /* To get crisp results, use sizes that are
+    a multiple of 20; because Linearicons was
+    designed on a 20 by 20 grid. */
+  }
+  .lnr-star {
+    color: #FFF;
+    font-size: 40px;
+    /* To get crisp results, use sizes that are
+    a multiple of 20; because Linearicons was
+    designed on a 20 by 20 grid. */
+  }
+
+  /* ------------------------------------------------------------------
+SUBSCRIPTION PLANS WRAPPER
+--------------------------------------------------------------------- */
+.subscription-wrapper {
+    padding: 60px;
+}
+.pricing-sub {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #000;
+    margin-bottom: 60px;
+}
+.subscription-wrapper .panel {
+    border: 2px solid transparent;
+    border-radius: 3px;
+    box-shadow: none;
+    border-color: #0c38f5;
+    background-color: #e0e0;
+}
+
+.subscription-wrapper .panel-default>.panel-heading {
+    background-color: #000;
+}
+
+.panel.featured-price {
+    border-color: #0c38f5;
+}
+.subscription-wrapper .panel-default>.panel-heading {
+    color: inherit;
+}
+.subscription-wrapper .panel-heading {
+    border-bottom: 2px solid transparent;
+    border-color: #0c38f5;
+    padding: 40px 35px 35px;
+}
+.subscription-wrapper .panel-heading h2{
+    font-size: 24px;
+    line-height: 30px;
+    color: #0c38f5;
+    font-weight: 700;
+}
+.subscription-wrapper .panel-heading h2 small {
+    display: block;
+    color: #202020;
+    font-weight: 700;
+}
+.subscription-wrapper .panel-body {
+    padding: 30px 35px;
+}
+.price {
+    display: block;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+    margin: 30px 0;
+    color: #0c38f5;
+}
+.price small {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400;
+}
+.pricing-btn span {
+    color: #0c38f5;
+    margin-left: 8px;
+    font-size: 12px;
+}
+
+  

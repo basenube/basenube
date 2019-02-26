@@ -9,10 +9,40 @@
     <meta name="keywords" content="Google Cloud Platform, Amazon Web Services, Azure, VMWare">
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Archivo" rel="stylesheet">
     <link rel="stylesheet" href="css/styles-merged.css">
     <link rel="stylesheet" href="css/style.min.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="fonts/font-mfizz/font-mfizz.css">
+    <link rel="stylesheet" href="fonts/icofont/icofont.min.css">
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.9/typed.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+	<script>
+$(document).ready(function() {
+  var typed = new Typed('#typed', {
+			strings: ["Cloud Automation", "Workload Automation", "Workload Deployment","Cloud Security"],
+			typeSpeed: 50,
+			backSpeed: 50,
+			loop: true,
+			loopCount: Infinity
+		});
+		var cloud = new Typed('#cloud', {
+			strings: ["GCP.", "Azure."],
+			typeSpeed: 30,
+			backSpeed: 30,
+			loop: true,
+			loopCount: Infinity
+		});
+    });
+		
+		
+		</script>
     <!--[if lt IE 9]>
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
@@ -65,23 +95,19 @@
             &nbsp;&nbsp;&nbsp;
             <li><a href="index.html" class="probootstrap-logo active"><img src="archive/assets/images/basenube.png"><span></span></span></a></li>
             <br/>
-            <li><a href="projects.html">Clients</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="contact.html">Contact</a></li>
+           
           </ul>
-          <ul class="probootstrap-right-nav hidden-xs">
-            <li><a style="color:#fff;" href="#"><i class="icon-linkedin"></i></a></li>
-            <li><a style="color:purple;" href="#"><i class="icon-twitch"></i></a></li>
-            <li><a style="color:rgb(83, 83, 83);" href="#"><i class="icon-github"></i></a></li>
+          <ul class="probootstrap-right-nav probootstrap-main-nav hidden-xs">
+              <li><a href="projects.html">Clients</a></li>
+              <li><a href="services.html">Services</a></li>
+              <li><a href="contact.html">Contact</a></li>
+          
           </ul>
           <div class="extra-text visible-xs"> 
             <a href="#" class="probootstrap-burger-menu"><i>Menu</i></a>
             <h5>Address</h5>
             <p>198 West 21th Street, Suite 721 New York NY 10016</p>
-            <h5>Connect</h5>
-            <ul class="social-buttons">
-              <li><a href="#"><i class="icon-aws"></i></a></li>
-              <li><a href="#"><i class="icon-google"></i></a></li>            </ul>
+            
           </div>
         </nav>
     </div>
@@ -106,8 +132,8 @@
             <div class="col-md-12 text-center">
                
 
-                    <p>Cloud, Automation, and Deployment Consulting as you would expect it.</p>
-                    <p><a href="https://uicookies.com/" target="_blank" class="btn btn-primary btn-lg bouton-image monBouton">Get Started</a></p>
+                    <p style="font-size: 20px;"><span id="typed"></span>Consulting as you would expect it.</p>
+                   
                   
               
                 
@@ -128,37 +154,38 @@
           <div class="service left-icon probootstrap-animate">
 
             <div class="icon">
-              <i class="icon-bubbles4"></i>
+                <i class="icofont-handshake-deal"></i>
+            
             </div>
             <div class="text">
               <h3 class="heading">Partner Powered</h3>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-              <p><a href="single-page.html">Learn more</a></p>
+              <p>Our partners trust us and we comply and exceed their competency standards. </p>
+             
             </div>
 
           </div>
         </div>
         <div class="col-md-4">
           <div class="service left-icon probootstrap-animate">
-            <div class="icon">
-              <i class="icon-cog"></i>
-            </div>
+              <div class="icon"> 
+                  <i class="icofont-architecture-alt"></i>                
+                </div> 
             <div class="text">
               <h3 class="heading">Modern Processes</h3>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-              <p><a href="single-page.html">Learn more</a></p>
+              <p>Hyper Connected Teams with Push-to-Talk Discord, and Slack. </p>
+              
             </div>
           </div>
         </div>
         <div class="col-md-4">
           <div class="service left-icon probootstrap-animate">
             <div class="icon">
-              <i class="icon-twitch"></i>
+                <b><span class="lnr lnr-star"></span></b>
             </div>
             <div class="text">
-              <h3 class="heading">Twitch</h3>
-              <p>We love twitch, so we decided on streaming to output competencies and interact with our communities. Our edge defense for Super Smash Brothers doesn't suck either.</p>
-              <p><a href="single-page.html">Learn more</a></p>
+              <h3 class="heading">Experts</h3>
+              <p>We are Terraform and Kubernetes Experts and deploy on Major Cloud Providers.</p>
+             
             </div>
           </div>
         </div>
@@ -208,7 +235,7 @@
               <div class="panel-heading" role="tab" id="headingThree">
                 <h3 class="panel-title">
                   <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    Twitch
+                    Experts
                   </a>
                 </h3>
               </div>
@@ -241,7 +268,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 section-heading probootstrap-animate">
-            <h2>The Team</h2>
+            <h2>EL EQUIPO</h2>
           </div>
         </div>
         <div class="row">
@@ -304,6 +331,64 @@
     </section>
     <!-- END section -->
   
+    <div class="conainer">
+
+        <section class="subscription-wrapper text-center">
+
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-4 col-lg-offset-2 text-left wow fadeInLeft">
+                        <div class="panel panel-default">
+                          <div class="panel-heading" style="background-color: silver;">
+                            <h2>Basic <small>Dynamically morph focused</small></h2>
+                            <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                          </div><!-- /.panel-heading -->
+
+                          <div class="panel-body">
+                            <ul class="check-square-o">
+                              <li>Compellingly myocardinate</li>
+                              <li>Stand alone value</li>
+                              <li>Uniquely strategize superior</li>
+                            </ul>
+
+                            <span class="price">$47 <small>/ Per month</small></span>
+
+                  <div class="pricing-btn">
+                    <a class="btn btn-primary" href="#">Get Started</a> <span>30 days trial included</span>
+                  </div>
+                          </div><!-- /.panel-body -->
+                        </div><!-- /.panel -->
+                    </div><!-- /.col-md-6 -->
+
+              <div class="col-lg-4 col-md-4 col-sm-4 text-left wow fadeInRight">
+                        <div class="panel panel-default featured-price">
+                          <div class="panel-heading" style="background-color: silver;">
+                            <h2>Enterprise <small>Dynamically morph focused</small></h2>
+                            <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                          </div><!-- /.panel-heading -->
+
+                          <div class="panel-body">
+                            <ul class="check-square-o">
+                              <li>Compellingly myocardinate</li>
+                              <li>Stand alone value</li>
+                              <li>Uniquely strategize superior</li>
+                            </ul>
+
+                            <span class="price">$399 <small>/ Per month</small></span>
+
+                  <div class="pricing-btn">
+                    <a class="btn btn-primary" href="#">Get Started</a> <span>30 days trial included</span>
+                  </div>
+
+                          </div><!-- /.panel-body -->
+                        </div><!-- /.panel -->
+                    </div><!-- /.col-md-6 -->
+
+                    
+
+            </div><!-- /.row -->
+          </section>
+    </div>
+
   <div class="container">
     <div class="probootstrap-cta probootstrap-animate">
       <h2 class="mb20">OUR JOURNEY TO PARTNERSHIP STATUS</h2>
@@ -313,6 +398,8 @@
   </div>
 
   <!-- END section cta -->
+
+
 
   <section class="probootstrap-section">
     <div class="container">
@@ -331,7 +418,7 @@
               <h2 class="probootstrap-card-heading mb0">A Clever Bike</h2>
               <p class="category">Design &amp; Model</p>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-              <p><a href="single-page.html">View details</a></p>
+             
             </div>
           </div>
         </div>
@@ -344,7 +431,7 @@
               <h2 class="probootstrap-card-heading mb0">Sleek Spaker</h2>
               <p class="category">Design</p>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-              <p><a href="single-page.html">View details</a></p>
+            
             </div>
           </div>
         </div>
@@ -357,7 +444,7 @@
               <h2 class="probootstrap-card-heading mb0">Black Person</h2>
               <p class="category">Photography</p>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-              <p><a href="single-page.html">View details</a></p>
+             
             </div>
           </div>
         </div>
