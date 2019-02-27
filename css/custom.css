@@ -54,7 +54,7 @@ SUBSCRIPTION PLANS WRAPPER
     border: 2px solid transparent;
     border-radius: 3px;
     box-shadow: none;
-    border-color: #0c38f5;
+    border-color: #333;
     background-color: #e0e0;
 }
 
@@ -63,14 +63,14 @@ SUBSCRIPTION PLANS WRAPPER
 }
 
 .panel.featured-price {
-    border-color: #0c38f5;
+    border-color: #333;
 }
 .subscription-wrapper .panel-default>.panel-heading {
     color: inherit;
 }
 .subscription-wrapper .panel-heading {
     border-bottom: 2px solid transparent;
-    border-color: #0c38f5;
+    border-color: #333;
     padding: 40px 35px 35px;
 }
 .subscription-wrapper .panel-heading h2{
