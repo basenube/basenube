@@ -5,3 +5,6 @@ theme:
   extra:
   logo:
     icon: 'cloud'
+  extra_css:
+  - 'stylesheets/extra.css'
+google_analytics: ['UA-119128826-1', 'basenube.com']
