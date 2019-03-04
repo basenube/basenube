@@ -1,2 +1,7 @@
 site_name: baseNUBE Documentation Hub
-theme: bootstrap4
+theme: 
+  name: material
+  custom_dir: 'theme'
+  extra:
+  logo:
+    icon: 'cloud'
