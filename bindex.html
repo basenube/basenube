@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="fonts/font-mfizz/font-mfizz.css">
     <link rel="stylesheet" href="fonts/icofont/icofont.min.css">
-
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.js"></script>
@@ -40,7 +40,12 @@ $(document).ready(function() {
 			loop: true,
 			loopCount: Infinity
 		});
-		
+    $( "#clickwhat" ).click(function() {
+      $( "#what" ).show( "slow", function() {
+    
+    });
+    });
+		$("#what").hide();
     });
 		
 		
@@ -95,9 +100,10 @@ $(document).ready(function() {
         <nav role="navigation" class="probootstrap-nav hidden-xs">
           <ul class="probootstrap-main-nav">
             &nbsp;&nbsp;&nbsp;
+         
             <li><a href="index.html" class="probootstrap-logo active"><img src="archive/assets/images/basenube.png"><span></span></span></a></li>
             <br/>
-           
+            <p class="pull-right">We're base `nu-bay`</p>
           </ul>
           <ul class="probootstrap-right-nav probootstrap-main-nav hidden-xs">
  
@@ -127,7 +133,7 @@ $(document).ready(function() {
 
               </div>
               <div class="col-md-6 text-center">
-  <h3>Security is on you, just as your Cloud Provider</h3>
+  <h3>Security is on you, just ask your Cloud Provider</h3>
   <h5>We are your trusty <i>Watchstander and Dayworker</i> for your Datacenter Helmsman </h5>
   <img src="img/k8s_white.png" draggable="false">&nbsp;
                 </div>
@@ -209,7 +215,7 @@ $(document).ready(function() {
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingOne">
                 <h3 class="panel-title">
-                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <a id="clickwhat" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                     WHAT WE DO IS WHAT WE'VE DONE
                   </a>
                 </h3>
@@ -274,9 +280,9 @@ $(document).ready(function() {
 
           <figure>
             <div class="probootstrap-video">
-              <iframe class="popup-vimeo probootstrap-video-play" width="560" height="315" src="https://www.youtube.com/embed/DPwp4-Cy0ZI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              <i class="icon-play3"></i></a>
-              <img src="img/slider_2.jpg" class="img-responsive img-border">
+              
+             
+              <img id="what" src="img/slider_2.jpg" class="img-responsive img-border">
             </div>
             <figcaption>We get own on Twitch.</figcaption>
           </figure>
@@ -286,68 +292,7 @@ $(document).ready(function() {
     </div>
   </div>
   <!-- END section -->
-  <section class="probootstrap-section">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 section-heading probootstrap-animate">
-            <h2>EL EQUIPO</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 probootstrap-animate">
-            <div class="probootstrap-card probootstrap-person text-center">
-              <div class="probootstrap-card-media">
-                <img src="img/sween.jpg" class="img-responsive" alt="basenube">
-              </div>
-              <div class="probootstrap-card-text">
-                <h2 class="probootstrap-card-heading mb0">Ron</h2>
-                <p><small>Full Stack Architect</small></p>
-                <p>Ron is a Full Stack Architect with good intentions and resident Subject Matter Expert for Enterprise Implementations.</p>
-                <ul class="probootstrap-social">
-                    <li><img src="img/skills/gcp.png"/></li>
-                    <li><img src="img/skills/aws.png"/></li>
-                  <li><img src="img/skills/kubernetes.png"/></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate">
-            <div class="probootstrap-card probootstrap-person text-center">
-              <div class="probootstrap-card-media">
-                <img src="img/quentin.jpg" class="img-responsive" alt="basenube">
-              </div>
-              <div class="probootstrap-card-text">
-                <h2 class="probootstrap-card-heading mb0">Quentin</h2>
-                <p><small>Partner Relations</small></p>
-                <p>Fresh Outta Kalamazoo College, Quentin is our PM for keeping our partnership agreements in check.</p>
-                <ul class="probootstrap-social">
-                  <li><img src="img/skills/aws.png"/></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 probootstrap-animate">
-            <div class="probootstrap-card probootstrap-person text-center">
-              <div class="probootstrap-card-media">
-                <img src="img/shane.jpg" class="img-responsive" alt="basenube">
-              </div>
-              <div class="probootstrap-card-text">
-                <h2 class="probootstrap-card-heading mb0">Shane</h2>
-                <p><small>Security</small></p>
-                <p>Subject Matter Expert for Security from the binaries to the cloud.  Mean kick swing move from all that Capoeira.</p>
-                <ul class="probootstrap-social">
-                  
-                  <li><img src="img/skills/aws.png"/></li>
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- END section -->
-  
+
     <div class="conainer">
 
         <section class="subscription-wrapper text-center">
@@ -355,16 +300,17 @@ $(document).ready(function() {
             <div class="row">
               <div class="col-lg-4 col-md-4 col-sm-4 col-lg-offset-2 text-left wow fadeInLeft">
                         <div class="panel panel-default">
-                          <div class="panel-heading" style="background-color: silver;">
-                            <h2>Consulting <small>Dynamically morph focused</small></h2>
-                            <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                          <div class="panel-heading" style="background-color:gainsboro;">
+                            <h2>Consulting <small>Subject Matter Expertise</small></h2>
+                            <p style="color:black;">Implementations <br> Migrations <br> Conversions <br> </p>
                           </div><!-- /.panel-heading -->
 
                           <div class="panel-body">
                             <ul class="check-square-o">
-                              <li>Compellingly myocardinate</li>
-                              <li>Stand alone value</li>
-                              <li>Uniquely strategize superior</li>
+                              <li>Subject Matter Expertise</li>
+                              <li>Solutions Architecture</li>
+                              <li>SRE Staff Augmentation</li>
+                              <li>Development</li>
                             </ul>
 
                             <span class="price">$100 <small>/ Per hour</small></span>
@@ -378,31 +324,30 @@ $(document).ready(function() {
 
               <div class="col-lg-4 col-md-4 col-sm-4 text-left wow fadeInRight">
                         <div class="panel panel-default featured-price">
-                          <div class="panel-heading" style="background-color: silver;">
-                            <h2>Enterprise Support <small>Dynamically morph focused</small></h2>
-                            <p>Objectively empowers <br> Clicks and morter schemas <br> whereas plug and play testing</p>
+                          <div class="panel-heading" style="background-color:slategrey;">
+                            <h2>Support <small>We're partners now.</small></h2>
+                            <p>Roadmaps <br> Compliance <br> Pairing <br> </p>
                           </div><!-- /.panel-heading -->
 
                           <div class="panel-body">
                             <ul class="check-square-o">
-                              <li>Compellingly myocardinate</li>
-                              <li>Stand alone value</li>
-                              <li>Uniquely strategize superior</li>
+                              <li>Dedicated Channel of Choice</li>
+                              <li>20 Hours of Consult/Dev</li>
+                              <li>Lights on Support</li>
+                              <li>Deployment</li>
                             </ul>
 
                             <span class="price">$3500 <small>/ Per month</small></span>
 
                   <div class="pricing-btn">
-                    <a class="btn btn-primary" href="#">Let's Go</a> <span>30 days trial included</span>
+                    <a class="btn btn-primary" href="#">We Got You</a> <span>After 240 Hours of Consulting</span>
                   </div>
 
                           </div><!-- /.panel-body -->
                         </div><!-- /.panel -->
                     </div><!-- /.col-md-6 -->
 
-                    
-
-            </div><!-- /.row -->
+                  </div><!-- /.row -->
           </section>
     </div>
 
@@ -426,15 +371,8 @@ $(document).ready(function() {
 
   <!-- END section cta -->
 
-
-
   <section class="probootstrap-section">
     <div class="container">
-      <div class="row">
-        <div class="col-md-12 section-heading probootstrap-animate">
-          <h2 class="mb20">The Projects</h2>
-        </div>
-      </div>
       <div class="row">
         <div class="col-md-4 probootstrap-animate">
           <div class="probootstrap-card">
@@ -442,7 +380,7 @@ $(document).ready(function() {
               <a href="single-page.html"><img src="img/slider_1.jpg" class="img-responsive img-border" alt="basenube"></a>
             </div>
             <div class="probootstrap-card-text">
-              <h2 class="probootstrap-card-heading mb0">FIND US ON UPWORK</h2>
+              <h2 class="probootstrap-card-heading mb0">FIND US IN THE GIG ECONOMY</h2>
               <p class="category">Channel</p>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
              
@@ -479,7 +417,63 @@ $(document).ready(function() {
     </div>
   </section>
   <!-- END section -->
-  
+  <section class="probootstrap-section">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-4 probootstrap-animate">
+          <div class="probootstrap-card probootstrap-person text-center">
+            <div class="probootstrap-card-media">
+              <img src="img/sween.jpg" class="img-responsive" alt="basenube">
+            </div>
+            <div class="probootstrap-card-text">
+              <h2 class="probootstrap-card-heading mb0">Ron</h2>
+              <p><small>Full Stack Architect</small></p>
+              <p>Ron is a Full Stack Architect with good intentions and resident Subject Matter Expert for Enterprise Implementations.</p>
+              <ul class="probootstrap-social">
+                  <li><img src="img/skills/gcp.png"/></li>
+                  <li><img src="img/skills/aws.png"/></li>
+                <li><img src="img/skills/kubernetes.png"/></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 probootstrap-animate">
+          <div class="probootstrap-card probootstrap-person text-center">
+            <div class="probootstrap-card-media">
+              <img src="img/quentin.jpg" class="img-responsive" alt="basenube">
+            </div>
+            <div class="probootstrap-card-text">
+              <h2 class="probootstrap-card-heading mb0">Quentin</h2>
+              <p><small>Partner Relations</small></p>
+              <p>Fresh Outta Kalamazoo College, Quentin is our PM for keeping our partnership agreements in check.</p>
+              <ul class="probootstrap-social">
+                <li><img src="img/skills/aws.png"/></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 probootstrap-animate">
+          <div class="probootstrap-card probootstrap-person text-center">
+            <div class="probootstrap-card-media">
+              <img src="img/shane.jpg" class="img-responsive" alt="basenube">
+            </div>
+            <div class="probootstrap-card-text">
+              <h2 class="probootstrap-card-heading mb0">Shane</h2>
+              <p><small>Security</small></p>
+              <p>Subject Matter Expert for Security from the binaries to the cloud.  Mean kick swing move from all that Capoeira.</p>
+              <ul class="probootstrap-social">
+                
+                <li><img src="img/skills/aws.png"/></li>
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- END section -->
 
   <footer class="probootstrap-footer probootstrap-bg">
     <div class="container">
