@@ -46,7 +46,14 @@ $(document).ready(function() {
     });
     });
 		$("#what").hide();
+    $( "#basenube" ).click(function() {
+      var audio = new Audio('nube.mp3');
+    audio.play();
+    
+  });
     });
+
+   
 		
 		
 		</script>
@@ -103,7 +110,7 @@ $(document).ready(function() {
          
             <li><a href="index.html" class="probootstrap-logo active"><img src="archive/assets/images/basenube.png"><span></span></span></a></li>
             <br/>
-            <p class="pull-right">We're base `nu-bay`</p>
+            <p class="pull-left"><i id="basenube" class="icofont-audio"></i></p>
           </ul>
           <ul class="probootstrap-right-nav probootstrap-main-nav hidden-xs">
  
