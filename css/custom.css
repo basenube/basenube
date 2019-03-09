@@ -41,10 +41,10 @@
 SUBSCRIPTION PLANS WRAPPER
 --------------------------------------------------------------------- */
 .subscription-wrapper {
-    padding: 60px;
+    padding: 30px;
 }
 .pricing-sub {
-    font-size: 20px;
+    /*font-size: 20px;*/
     line-height: 30px;
     font-weight: 400;
     color: #000;
@@ -71,7 +71,7 @@ SUBSCRIPTION PLANS WRAPPER
 .subscription-wrapper .panel-heading {
     border-bottom: 2px solid transparent;
     border-color: #333;
-    padding: 40px 35px 35px;
+    padding: 20px 20px 20px;
 }
 .subscription-wrapper .panel-heading h2{
     font-size: 24px;
