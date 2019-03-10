@@ -40,12 +40,38 @@ $(document).ready(function() {
 			loop: true,
 			loopCount: Infinity
 		});
+
+    $("#what").hide();
+    $("#how").hide();
+    $("#expert").hide();
+    $("#corevalue").hide();
+    
+    //$("#what").hide();
+
+
     $( "#clickwhat" ).click(function() {
       $( "#what" ).show( "slow", function() {
     
+      });
     });
+    $( "#clickhow" ).click(function() {
+      $( "#how" ).show( "slow", function() {
+    
+      });
     });
-		$("#what").hide();
+    $( "#clickexpert" ).click(function() {
+      $( "#expert" ).show( "slow", function() {
+    
+      });
+    });
+    $( "#clickcore" ).click(function() {
+      $( "#corevalue" ).show( "slow", function() {
+    
+      });
+    });
+
+
+
     $( "#basenube" ).click(function() {
       var audio = new Audio('nube.mp3');
     audio.play();
@@ -239,7 +265,7 @@ $(document).ready(function() {
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingTwo">
                 <h3 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  <a id="clickhow" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                     HOW WE DO IT
                   </a>
                 </h3>
@@ -254,7 +280,7 @@ $(document).ready(function() {
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h3 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <a id="clickexpert" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                     EXPERTISE
                   </a>
                 </h3>
@@ -268,7 +294,7 @@ $(document).ready(function() {
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="headingTwo">
                   <h3 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">
+                    <a id="clickcore" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">
                       CORE VALUES
                     </a>
                   </h3>
@@ -291,6 +317,9 @@ $(document).ready(function() {
               
              
               <img id="what" src="img/slider_2.jpg" class="img-responsive img-border">
+              <img id="how" src="img/slider_2.jpg" class="img-responsive img-border">
+              <img id="expert" src="img/slider_2.jpg" class="img-responsive img-border">
+              <img id="corevalues" src="img/slider_1.jpg" class="img-responsive img-border">
             </div>
             <figcaption>We get own on Twitch.</figcaption>
           </figure>
