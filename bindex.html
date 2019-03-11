@@ -50,23 +50,34 @@ $(document).ready(function() {
 
 
     $( "#clickwhat" ).click(function() {
-      $( "#what" ).show( "slow", function() {
+      $( "#what" ).show( "slow", function() {   
+      $("#how").hide();
+      $("#expert").hide();
+      $("#corevalue").hide();
     
       });
     });
     $( "#clickhow" ).click(function() {
-      $( "#how" ).show( "slow", function() {
+      $("#how" ).show( "slow", function() {
+      $("#what").hide();
+      $("#expert").hide();
+      $("#corevalue").hide();
     
       });
     });
     $( "#clickexpert" ).click(function() {
       $( "#expert" ).show( "slow", function() {
-    
+       $("#what").hide();
+       $("#how").hide();
+       $("#corevalue").hide();
       });
     });
     $( "#clickcore" ).click(function() {
       $( "#corevalue" ).show( "slow", function() {
-    
+        $("#corevalue").hide();
+        $("#what").hide();
+        $("#how").hide();
+        $("#expert").hide();
       });
     });
 
