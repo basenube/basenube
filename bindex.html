@@ -20,10 +20,14 @@
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.9/typed.min.js"></script>
+  <script src="js/vendor/cycle.js"></script>
 
   <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119128826-1"></script>
+
+
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -83,6 +87,23 @@ $(document).ready(function() {
 
       });
     });
+
+
+    var $rotator = $(".rotator");
+            $rotator.find("img:gt(0)").hide();
+            setTimeout(Rotate, 1000);
+
+            function Rotate() {
+                var $current = $rotator.find("img:visible");
+                var $set = $rotator.find("img");
+         var $next = $set.eq(($set.index($current)+1) % $set.length);
+        console.log($next);
+                if ($next.length == 0) $next = $rotator.find("img:eq(0)");
+                $current.hide();
+                $next.show();
+                setTimeout(Rotate, 5000);
+            }
+
 
 
 
@@ -413,7 +434,12 @@ $(document).ready(function() {
           </div>
           <div class="col-md-2">
             &nbsp;
-            <img src="img/gamers-outreach-logo.png" class="img-responsive img-border" alt="basenube"/>
+            <div class="rotator">
+              <img id="how" src="img/feature-gcp.png" class="img-responsive img-border">
+              <img id="what" src="img/feature-spring.png" class="img-responsive img-border">
+              <img id="expert" src="img/feature-aws.jpg" class="img-responsive img-border">
+              <img id="corevalue" src="img/feature-k8.png" class="img-responsive img-border">
+            </div>
           </div>
           <div class="col-md-5">
             <h2 class="mb20 pull-right">YOU CAN DO THIS YOURSELF</h2>
