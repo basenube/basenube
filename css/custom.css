@@ -215,3 +215,14 @@ SUBSCRIPTION PLANS WRAPPER
   .pricing-button.is-featured:active {
     background-color: #269aff;
   }
+
+  .parent {
+    width: 42px; /* I took the width from your post and placed it in css */
+    height: 42px;
+ }
+ 
+ /* This will style any <img> element in .parent div */
+ .parent img {
+    height: 100%;
+    width: 100%;
+ }
