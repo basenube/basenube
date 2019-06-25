@@ -219,6 +219,7 @@ SUBSCRIPTION PLANS WRAPPER
   .parent {
     width: 128px; /* I took the width from your post and placed it in css */
     height: 128px;
+    text-align: center;
  }
  
  /* This will style any <img> element in .parent div */
