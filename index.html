@@ -131,7 +131,7 @@ $(document).ready(function() {
             function Rotate3() {
                 var $current3 = $rotator3.find("img:visible");
                 var $set3 = $rotator3.find("img");
-         var $next3 = $set3.eq(($set2.index($current2)+1) % $set2.length);
+         var $next3 = $set3.eq(($set3.index($current3)+1) % $set3.length);
         console.log($next3);
                 if ($next3.length == 0) $next3 = $rotator3.find("img:eq(0)");
                 $current3.hide();
