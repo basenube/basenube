@@ -5,7 +5,7 @@ Version: 1.0
 Author: Cloud Software Solution Ltd.
 */
 
-
+/*
 body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -15,6 +15,16 @@ body {
     color: #6d6d6d;
     -webkit-font-smoothing: antialiased !important;
 }
+*/
+body {
+    background: #000000;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.4);
+    font-weight: 300;
+  }
+  
 
 
 /* ------------------------------------------------
