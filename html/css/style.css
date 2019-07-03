@@ -1747,7 +1747,7 @@ SINGLE BLOG
 }
 
 .sidebar-tab .tab-content {
-    margin: 15px 0 0;
+    margin: 50px 0 0;
 }
 .sidebar-tab .nav-tabs li:first-child a:after{
     content: "|";
