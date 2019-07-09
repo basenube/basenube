@@ -2438,7 +2438,7 @@ li.dropdown.menu-animating > .submenu-sub-wrapper {
     left        : 0;
     text-align  : left;
     text-shadow : none;
-    width : 60%;
+    width : 100%;
     }
 
 .hero-slide .carousel-caption small {
