@@ -394,7 +394,7 @@ NAVIGATION
 --------------------------------------------------------------------- */
 @media(min-width:767px) {
     .navbar {
-        padding: 150px 0;
+        padding: 60px 0;
         border-bottom: 0;
         background: -webkit-linear-gradient(top, #000, rgba(0, 0, 0, 0)); /*Safari 5.1-6*/
         background: -o-linear-gradient(top, #000, rgba(0, 0, 0, 0)); /*Opera 11.1-12*/
@@ -412,6 +412,7 @@ NAVIGATION
 
     .top-nav-collapse {
         padding: 0;
+        padding: 60px 0;
         background: rgba(0,0,0,.8);
     }
 }
