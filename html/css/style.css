@@ -509,7 +509,7 @@ INTRO SECTION
 SERVICE WRAPPER
 --------------------------------------------------------------------- */
 .service-wrapper {
-    background: #43525a;
+    background: #0c38f5;
     padding: 60px;
 }
 .service-wrapper .section-title {
@@ -586,16 +586,16 @@ ADVANTAGES WRAPPER
 --------------------------------------------------------------------- */
 .advantages-wrapper {
     padding: 60px;
-    background: #000000 url('../img/experiencetab.jpg') no-repeat center center;
+    background: #fff url('../img/experiencetab.jpg') no-repeat center center;
     background-size: cover;
 }
 
 .advantages-wrapper.skills {
-    background: #000000 url('../img/skillstab.jpg') no-repeat center center;
+    background: #fff url('../img/skillstab.jpg') no-repeat center center;
     background-size: cover;
 }
 .advantages-wrapper.capabilities {
-    background: #000000 url('../img/capabilitiestab.jpg') no-repeat center center;
+    background: #fff url('../img/capabilitiestab.jpg') no-repeat center center;
     background-size: cover;
 }
 
@@ -690,7 +690,7 @@ ADVANTAGES WRAPPER
 HANDOVER WRAPPER
 --------------------------------------------------------------------- */
 .handover-wrapper {
-    background-color: #5d564b;
+    background-color: #000;
     color: #fff;
     padding: 60px 0 60px 60px;
 }
