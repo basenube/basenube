@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/womans-hand-plugging-a-wire-into-a-white-cloud-ptl6au8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/four-white-wires-laying-under-a-white-cotton-php6tbw.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/4.png</image:loc>
     </image:image>
     <image:image>
@@ -71,6 +65,12 @@
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/abstract-background-lines-and-dots-pqgefrj.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/services-version-01.html</loc>
@@ -79,9 +79,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
@@ -94,6 +91,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -105,9 +105,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -118,6 +115,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -129,9 +129,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -142,6 +139,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -153,9 +153,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -166,6 +163,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -177,9 +177,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -190,6 +187,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -201,9 +201,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -214,6 +211,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/36855909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -246,9 +246,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/10.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -274,6 +271,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/laptop280x170.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5)2.png</image:loc>
     </image:image>
   </url>
 </urlset>
