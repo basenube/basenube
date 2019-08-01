@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1564686171018">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1564686739139">
   <folder name="css">
     <file name="site_global.css" crc="3764209657"/>
-    <file name="master_mvp-master-page-_1-page_.css" crc="4238325770" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
+    <file name="master_mvp-master-page-_1-page_.css" crc="4000679167" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
     <file name="nomq_preview_master_mvp-master-page-_1-page_.css" crc="3824530138" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
     <file name="what-we-do.css" crc="129142578" ref="what-we-do"/>
     <file name="nomq_what-we-do.css" crc="426139204" ref="what-we-do"/>
@@ -18,7 +18,7 @@
     <file name="finished-page.css" crc="484675181" ref="finished-page"/>
     <file name="nomq_finished-page.css" crc="3821726294" ref="finished-page"/>
     <file name="iefonts_finished-page.css" crc="3824530138" ref="finished-page"/>
-    <file name="index.css" crc="502324940" ref="index"/>
+    <file name="index.css" crc="170263313" ref="index"/>
     <file name="nomq_index.css" crc="4111865263" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="our-approach.css" crc="129142578" ref="our-approach"/>
@@ -627,7 +627,7 @@
     <file name="tf-u126431-fr.png" crc="451569142" ref="finished-page"/>
     <file name="vh-u126440-fr.png" crc="4128333862" ref="finished-page"/>
   </folder>
-  <file name="index.html" crc="4283284837" seo="true" mt="1564685937234" redirect="true"/>
+  <file name="index.html" crc="259422094" seo="true" mt="1564686717661" redirect="true"/>
   <file name="services-version-01.html" crc="432705345" seo="true" mt="1564678705557" redirect="true"/>
   <file name="what-we-do.html" crc="446223608" seo="true" mt="1564678705557" redirect="true"/>
   <file name="our-approach.html" crc="465831129" seo="true" mt="1564678705557" redirect="true"/>

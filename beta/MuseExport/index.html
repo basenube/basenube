@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>MVP Page (1 Page)</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3764209657"/>
-  <link rel="stylesheet" type="text/css" href="css/master_mvp-master-page-_1-page_.css?crc=4238325770"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=502324940" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_mvp-master-page-_1-page_.css?crc=4000679167"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=170263313" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3824530138"/>
@@ -154,7 +154,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
       <div class="effect clearfix grpelem shared_content" id="u10873-6" data-content-guid="u10873-6_content"><!-- content -->
        <p id="u10873-2">Be Creative. Innovative. &amp; Inspirative.</p>
-       <p id="u10873-4">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</p>
+       <p id="u10873-4">Lorem ipsum dolor sit amet</p>
       </div>
       <div class="Button effect transition rounded-corners clearfix grpelem shared_content" id="buttonu10965" data-content-guid="buttonu10965_content"><!-- container box -->
        <div class="clearfix grpelem" id="u10966-4"><!-- content -->
@@ -1262,16 +1262,16 @@ Muse.Utils.initWidget('#slideshowu10928', ['#bp_infinity', '#bp_1200', '#bp_1000
 Muse.Utils.initWidget('#accordionu129048', ['#bp_infinity', '#bp_1200', '#bp_1000', '#bp_760', '#bp_520'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu129048 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_1000', '#bp_760', '#bp_520'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu74257', ['#bp_1000', '#bp_760', '#bp_520'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'vertical',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu74257 */
-$('#bp_1200').one('muse_this_bp_activate', function(){
-$('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1000').one('muse_this_bp_activate', function(){
-$('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_760').one('muse_this_bp_activate', function(){
 $('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
+$('#bp_1200').one('muse_this_bp_activate', function(){
+$('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_520').one('muse_this_bp_activate', function(){
+$('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_1000').one('muse_this_bp_activate', function(){
 $('#u110740').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,266.05]},{"speed":[0,0],"in":[266.05,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
