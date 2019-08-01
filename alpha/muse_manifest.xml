@@ -1,0 +1,1051 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://www.basenube.com/alpha" resolutions="1x" timestamp="1564498573010">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="348879041" ref="contact:services:about:blog:index:blog-details:gallery:projects"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:services:about:blog:index:blog-details:gallery:projects"/>
+    <file name="contact.css" crc="4211820590" ref="contact"/>
+    <file name="nomq_contact.css" crc="293672420" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="services.css" crc="403068712" ref="services"/>
+    <file name="nomq_services.css" crc="3771731730" ref="services"/>
+    <file name="iefonts_services.css" crc="3824530138" ref="services"/>
+    <file name="about.css" crc="4042720911" ref="about"/>
+    <file name="nomq_about.css" crc="487453964" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="blog.css" crc="88299269" ref="blog"/>
+    <file name="nomq_blog.css" crc="3931428274" ref="blog"/>
+    <file name="iefonts_blog.css" crc="3824530138" ref="blog"/>
+    <file name="index.css" crc="3883480522" ref="index"/>
+    <file name="nomq_index.css" crc="418251895" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="blog-details.css" crc="4114127308" ref="blog-details"/>
+    <file name="nomq_blog-details.css" crc="240474650" ref="blog-details"/>
+    <file name="iefonts_blog-details.css" crc="3824530138" ref="blog-details"/>
+    <file name="gallery.css" crc="461740338" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="474625173" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="3824530138" ref="gallery"/>
+    <file name="projects.css" crc="277222669" ref="projects"/>
+    <file name="nomq_projects.css" crc="4294121888" ref="projects"/>
+    <file name="iefonts_projects.css" crc="3824530138" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:projects:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:projects:gallery"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:projects:gallery"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="require.js" crc="7928878" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u57913.php" crc="4011164946" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3778987190" ref="index"/>
+    <file name="cloudcomputing.jpg" crc="104837872" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u62228-4.png" crc="4048656754" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:projects:services:blog:gallery:contact:blog-details"/>
+    <file name="output-onlinepngtools.png" crc="429908770" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="basenube -our approach- tab.png" crc="98801780" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="team tab.png" crc="370274251" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="price tab.png" crc="4220867704" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="project_img.jpg" crc="526598832" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="parralax-bg.jpg" crc="287464207" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="103298516" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="17.png" crc="515115905" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="linkedin-172-569316.png" crc="3906011649" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="twitch-16-569328.png" crc="3763876468" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="github-153-675523.png" crc="127435388" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="docker-4-532129.png" crc="3918534358" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="zbt4ifgg_reasonably_small.jpg" crc="139464070" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="intersystems.jpg" crc="4176347522" seo="true" ref="index:about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+      <caption webpage="blog-details" alt=""/>
+    </file>
+    <file name="u62228-42.png" crc="3832707738" ref="index"/>
+    <file name="project_img-u38805-fr.jpg" crc="4030694674" ref="index"/>
+    <file name="u62228-43.png" crc="3892709815" ref="index"/>
+    <file name="project_img-u38805-fr2.jpg" crc="135445504" ref="index"/>
+    <file name="parralax-bg-u39703-fr.jpg" crc="4225536286" ref="index"/>
+    <file name="u62228-44.png" crc="385404935" ref="index"/>
+    <file name="u62228-45.png" crc="480411264" ref="index"/>
+    <file name="u62228-46.png" crc="404478642" ref="index"/>
+    <file name="parralax-bg-u39703-fr2.jpg" crc="4234341832" ref="index"/>
+    <file name="all_pages_bg.jpg" crc="199535864" ref="about:projects:services:blog:gallery:contact:blog-details">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-img.jpg" crc="4026840462" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="member-img.jpg" crc="429188435" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brand1.png" crc="3769374775" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brand2.png" crc="3933465849" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brand3.png" crc="4212028491" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brand4.png" crc="367081150" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brand5.png" crc="359168453" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-img-u44861-fr.jpg" crc="3845045036" ref="about"/>
+    <file name="about-img-u44861-fr2.jpg" crc="4235004673" ref="about"/>
+    <file name="project1.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project4.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project7.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project2.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project5.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project8.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project3.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project6.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project9.jpg" crc="493183682" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="project1-u49506-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project3-u50634-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project6-u50910-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project7-u51592-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project8-u51594-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project2-u50392-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project4-u50876-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project5-u50878-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="project9-u51626-fr.jpg" crc="4126123517" ref="projects"/>
+    <file name="blog_img.jpg" crc="268948362" ref="blog:blog-details">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="recent_post1.jpg" crc="258030118" ref="blog:blog-details">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="recent_post2.jpg" crc="3849813378" ref="blog:blog-details">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="recent_post3.jpg" crc="4093061336" ref="blog:blog-details">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="zoom-u56430-r-fr.png" crc="459879956" ref="gallery"/>
+    <file name="gallery1374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9374x300.jpg" crc="342685931" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9.jpg" crc="300581795" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="gallery1312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9312x250.jpg" crc="253198383" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9250x200.jpg" crc="321070053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8260x209.jpg" crc="84296033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9449x360.jpg" crc="3841800318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8187x150.jpg" crc="129324036" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9319x256.jpg" crc="4004382163" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9320x257.jpg" crc="507296854" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery1262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery2262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery3262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery4262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery5262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery6262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery7262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery8262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gallery9262x210.jpg" crc="3758370494" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4260187831" seo="true" mt="1564439961215" redirect="true"/>
+  <file name="about.html" crc="4074786681" seo="true" mt="1564449662649" redirect="true"/>
+  <file name="projects.html" crc="447917751" seo="true" mt="1564439961176" redirect="true"/>
+  <file name="services.html" crc="8070051" seo="true" mt="1564449746417" redirect="true"/>
+  <file name="blog.html" crc="4039278269" seo="true" mt="1564439961176" redirect="true"/>
+  <file name="gallery.html" crc="124742814" seo="true" mt="1564439961176" redirect="true"/>
+  <file name="contact.html" crc="3932338536" seo="true" mt="1564439961176" redirect="true"/>
+  <file name="blog-details.html" crc="428562059" seo="true" mt="1564439961176" redirect="true"/>
+</manifest>
