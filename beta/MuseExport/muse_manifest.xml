@@ -1,31 +1,31 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1564768394896">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1564783175251">
   <folder name="css">
     <file name="site_global.css" crc="244242617"/>
-    <file name="master_mvp-master-page-_1-page_.css" crc="489923897" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
-    <file name="nomq_preview_master_mvp-master-page-_1-page_.css" crc="3824530138" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
-    <file name="what-we-do.css" crc="4272086796" ref="what-we-do"/>
-    <file name="nomq_what-we-do.css" crc="3818736794" ref="what-we-do"/>
+    <file name="master_mvp-master-page-_1-page_.css" crc="63384781" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
+    <file name="nomq_preview_master_mvp-master-page-_1-page_.css" crc="3970554874" ref="what-we-do:get-price:services-version-01:approach:finished-page:index:our-approach:the-team"/>
+    <file name="what-we-do.css" crc="4250270795" ref="what-we-do"/>
+    <file name="nomq_what-we-do.css" crc="3814531871" ref="what-we-do"/>
     <file name="iefonts_what-we-do.css" crc="3824530138" ref="what-we-do"/>
-    <file name="get-price.css" crc="190569563" ref="get-price"/>
-    <file name="nomq_get-price.css" crc="172617806" ref="get-price"/>
+    <file name="get-price.css" crc="3873957742" ref="get-price"/>
+    <file name="nomq_get-price.css" crc="130075603" ref="get-price"/>
     <file name="iefonts_get-price.css" crc="3824530138" ref="get-price"/>
-    <file name="services-version-01.css" crc="135793463" ref="services-version-01"/>
-    <file name="nomq_services-version-01.css" crc="3837522398" ref="services-version-01"/>
+    <file name="services-version-01.css" crc="74148008" ref="services-version-01"/>
+    <file name="nomq_services-version-01.css" crc="4069043351" ref="services-version-01"/>
     <file name="iefonts_services-version-01.css" crc="3824530138" ref="services-version-01"/>
-    <file name="approach.css" crc="128750152" ref="approach"/>
-    <file name="nomq_approach.css" crc="165106660" ref="approach"/>
+    <file name="approach.css" crc="82158853" ref="approach"/>
+    <file name="nomq_approach.css" crc="4139376039" ref="approach"/>
     <file name="iefonts_approach.css" crc="3824530138" ref="approach"/>
-    <file name="finished-page.css" crc="3786828598" ref="finished-page"/>
-    <file name="nomq_finished-page.css" crc="175978610" ref="finished-page"/>
+    <file name="finished-page.css" crc="282131234" ref="finished-page"/>
+    <file name="nomq_finished-page.css" crc="263972683" ref="finished-page"/>
     <file name="iefonts_finished-page.css" crc="3824530138" ref="finished-page"/>
-    <file name="index.css" crc="328709070" ref="index"/>
-    <file name="nomq_index.css" crc="348640814" ref="index"/>
+    <file name="index.css" crc="317237783" ref="index"/>
+    <file name="nomq_index.css" crc="67013995" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="our-approach.css" crc="4272086796" ref="our-approach"/>
-    <file name="nomq_our-approach.css" crc="3818736794" ref="our-approach"/>
+    <file name="our-approach.css" crc="4250270795" ref="our-approach"/>
+    <file name="nomq_our-approach.css" crc="3814531871" ref="our-approach"/>
     <file name="iefonts_our-approach.css" crc="3824530138" ref="our-approach"/>
-    <file name="the-team.css" crc="4009689964" ref="the-team"/>
-    <file name="nomq_the-team.css" crc="3930407986" ref="the-team"/>
+    <file name="the-team.css" crc="4057601536" ref="the-team"/>
+    <file name="nomq_the-team.css" crc="3920241629" ref="the-team"/>
     <file name="iefonts_the-team.css" crc="3824530138" ref="the-team"/>
   </folder>
   <folder name="scripts">
@@ -725,12 +725,12 @@
       <caption webpage="approach" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="330933006" seo="true" mt="1564768269481" redirect="true"/>
-  <file name="services-version-01.html" crc="239482870" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="what-we-do.html" crc="535081396" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="our-approach.html" crc="218510838" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="approach.html" crc="4051233475" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="get-price.html" crc="4230807300" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="the-team.html" crc="4155839859" seo="true" mt="1564767787941" redirect="true"/>
-  <file name="finished-page.html" crc="3775008835" seo="true" mt="1564767787941" redirect="true"/>
+  <file name="index.html" crc="4181488807" seo="true" mt="1564782228812" redirect="true"/>
+  <file name="services-version-01.html" crc="4184298550" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="what-we-do.html" crc="3993507395" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="our-approach.html" crc="400861932" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="approach.html" crc="219458837" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="get-price.html" crc="209116303" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="the-team.html" crc="163483281" seo="true" mt="1564781689312" redirect="true"/>
+  <file name="finished-page.html" crc="205822468" seo="true" mt="1564781689312" redirect="true"/>
 </manifest>
