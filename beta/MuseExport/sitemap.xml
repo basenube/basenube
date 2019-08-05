@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.rometheme.net/muse/coxe/index.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -36,9 +36,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/10.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
@@ -62,18 +59,18 @@
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/basenubeback-crop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/services-version-01.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -94,19 +91,16 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/what-we-do.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -127,19 +121,16 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/our-approach.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -160,19 +151,16 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/approach.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -193,19 +181,16 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/get-price.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -226,19 +211,16 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/the-team.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
@@ -260,10 +242,13 @@
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/finished-page.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -279,9 +264,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/12.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/2.png</image:loc>
     </image:image>
     <image:image>
@@ -289,9 +271,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
@@ -328,6 +307,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/asset%2026.png</image:loc>
     </image:image>
   </url>
 </urlset>
