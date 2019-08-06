@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>MVP Page (1 Page)</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=244242617"/>
-  <link rel="stylesheet" type="text/css" href="css/master_final-master-page.css?crc=60889042"/>
+  <link rel="stylesheet" type="text/css" href="css/master_final-master-page.css?crc=3965052565"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?crc=270616419" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_final-master-page.css?crc=4022960335"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_final-master-page.css?crc=3956615780"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=4200519141" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
@@ -1587,19 +1587,19 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#accordionu131763', ['#bp_infinity', '#bp_1200', '#bp_1000', '#bp_760', '#bp_520'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu131763 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1200', '#bp_1000', '#bp_760', '#bp_520'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu137900', ['#bp_1000', '#bp_760', '#bp_520'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'vertical',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu137900 */
+$('#bp_1000').one('muse_this_bp_activate', function(){
+$('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,296.05]},{"speed":[0,0],"in":[296.05,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_760').one('muse_this_bp_activate', function(){
 $('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,296.05]},{"speed":[0,0],"in":[296.05,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_520').one('muse_this_bp_activate', function(){
-$('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,296.05]},{"speed":[0,0],"in":[296.05,Infinity]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1000').one('muse_this_bp_activate', function(){
+$('#bp_1200').one('muse_this_bp_activate', function(){
 $('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,296.05]},{"speed":[0,0],"in":[296.05,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,389.45]},{"speed":[0,0],"in":[389.45,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_1200').one('muse_this_bp_activate', function(){
+$('#bp_520').one('muse_this_bp_activate', function(){
 $('#u138831').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,296.05]},{"speed":[0,0],"in":[296.05,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
