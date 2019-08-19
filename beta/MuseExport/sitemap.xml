@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.rometheme.net/muse/coxe/index.html</loc>
-    <lastmod>2019-08-16</lastmod>
+    <lastmod>2019-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,9 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/og-image-6ef0ad8b.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/2.png</image:loc>
@@ -67,6 +64,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/1_d9mxw4wpvrlxhgg6eap-pg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/okta-circle-logo.png</image:loc>
     </image:image>
   </url>
   <url>
