@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1566232881057">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1566407583019">
   <folder name="css">
-    <file name="site_global.css" crc="214615888"/>
-    <file name="approach.css" crc="318590585" ref="approach"/>
-    <file name="nomq_approach.css" crc="442288161" ref="approach"/>
-    <file name="index.css" crc="146881616" ref="index"/>
-    <file name="nomq_index.css" crc="103479305" ref="index"/>
-    <file name="master_final-master-page.css" crc="494741639" ref="index:approach:price"/>
-    <file name="nomq_preview_master_final-master-page.css" crc="3814853354" ref="index:approach:price"/>
-    <file name="price.css" crc="4047211640" ref="price"/>
-    <file name="nomq_price.css" crc="3826032024" ref="price"/>
-    <file name="home--copy.css" crc="4151776397" ref="home--copy"/>
-    <file name="nomq_home--copy.css" crc="430188845" ref="home--copy"/>
+    <file name="site_global.css" crc="4241819529"/>
+    <file name="approach.css" crc="3922778810" ref="approach"/>
+    <file name="nomq_approach.css" crc="100552996" ref="approach"/>
+    <file name="index.css" crc="493590324" ref="index"/>
+    <file name="nomq_index.css" crc="166636653" ref="index"/>
+    <file name="master_final-master-page.css" crc="3990275928" ref="index:approach:price"/>
+    <file name="nomq_preview_master_final-master-page.css" crc="4285521033" ref="index:approach:price"/>
+    <file name="price.css" crc="263849337" ref="price"/>
+    <file name="nomq_price.css" crc="527203120" ref="price"/>
+    <file name="home--copy.css" crc="4284116930" ref="home--copy"/>
+    <file name="nomq_home--copy.css" crc="459183061" ref="home--copy"/>
     <file name="iefonts_home--copy.css" crc="3824530138" ref="home--copy"/>
-    <file name="copy-of-previous-mvp.css" crc="17203263" ref="copy-of-previous-mvp"/>
-    <file name="nomq_copy-of-previous-mvp.css" crc="163055452" ref="copy-of-previous-mvp"/>
+    <file name="copy-of-previous-mvp.css" crc="4148471965" ref="copy-of-previous-mvp"/>
+    <file name="nomq_copy-of-previous-mvp.css" crc="519004493" ref="copy-of-previous-mvp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:approach:price:home--copy:copy-of-previous-mvp"/>
@@ -36,12 +36,18 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:approach:price:home--copy:copy-of-previous-mvp"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="12.png" crc="3916474713" seo="true" ref="index:home--copy:copy-of-previous-mvp">
+    <file name="12.png" crc="3916474713" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
@@ -52,12 +58,6 @@
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="logo-terraform-38bd0e32.png" crc="4153766785" seo="true" ref="index:home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -114,11 +114,31 @@
       <caption webpage="home--copy" alt=""/>
     </file>
     <file name="977804-64.png" crc="454649923" seo="true" ref="index:home--copy:copy-of-previous-mvp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
       <caption webpage="our-approach" alt=""/>
       <caption webpage="our-approach" alt=""/>
       <caption webpage="our-approach" alt=""/>
       <caption webpage="our-approach" alt=""/>
       <caption webpage="our-approach" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
@@ -130,41 +150,21 @@
       <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
     </file>
     <file name="og-image-6ef0ad8b.png" crc="4164537773" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -190,16 +190,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
     </file>
     <file name="7.png" crc="136444117" seo="true" ref="index:home--copy">
       <caption webpage="index" alt=""/>
@@ -212,6 +212,11 @@
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
@@ -227,11 +232,6 @@
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
     </file>
     <file name="10.png" crc="17015771" seo="true" ref="home--copy:index">
       <caption webpage="index" alt=""/>
@@ -239,79 +239,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
     </file>
     <file name="slack-1425878-1205069.png" crc="285773659" seo="true" ref="index:approach:price:home--copy:copy-of-previous-mvp">
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -322,41 +261,46 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
@@ -377,6 +321,32 @@
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
@@ -392,109 +362,83 @@
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
     </file>
-    <file name="72.png" crc="46856914" seo="true" ref="home--copy:index:approach:price:copy-of-previous-mvp">
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
+    <file name="72.png" crc="46856914" seo="true" ref="home--copy:price:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
@@ -515,6 +459,32 @@
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
       <caption webpage="the-team" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
@@ -530,8 +500,33 @@
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
     </file>
-    <file name="output-onlinepngtools (6).png" crc="181342875" seo="true" ref="home--copy:copy-of-previous-mvp">
+    <file name="output-onlinepngtools (6).png" crc="3940299796" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -549,140 +544,6 @@
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
-    </file>
-    <file name="linkedinsvg.png" crc="3938712257" seo="true" ref="index:approach:price">
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-    </file>
-    <file name="twitch-16-569328 (1).png" crc="351965433" seo="true" ref="index:approach:price">
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
     </file>
     <file name="docker-4-532129 (1).png" crc="4209529095" seo="true" ref="index:approach:price">
       <caption webpage="services-version-01" alt=""/>
@@ -695,71 +556,6 @@
       <caption webpage="services-version-01" alt=""/>
       <caption webpage="services-version-01" alt=""/>
       <caption webpage="services-version-01" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
@@ -769,6 +565,42 @@
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
@@ -778,6 +610,20 @@
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
     </file>
     <file name="basenubeback-crop.jpg" crc="4093459631" seo="true" ref="index:home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -797,86 +643,30 @@
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
     </file>
-    <file name="asset 26.png" crc="3922747812" seo="true" ref="index:approach:price">
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-    </file>
     <file name="u137954.png" crc="136418766" ref="index:approach:price"/>
     <file name="u137954-a.png" crc="198533948" ref="index:approach:price"/>
-    <file name="webpnet-resizeimage-u140683.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1406832.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1406833.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1406834.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1406835.png" crc="430737377" ref="index"/>
     <file name="output-onlinepngtools (5).png" crc="4035070587" seo="true" ref="index:price:home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
@@ -887,34 +677,13 @@
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-u144780.png" crc="88678104" ref="price"/>
-    <file name="webpnet-resizeimage-u1447802.png" crc="430737377" ref="price"/>
-    <file name="webpnet-resizeimage-u1447803.png" crc="430737377" ref="price"/>
-    <file name="webpnet-resizeimage-u1447804.png" crc="430737377" ref="price"/>
-    <file name="webpnet-resizeimage-u1447805.png" crc="430737377" ref="price"/>
-    <file name="webpnet-resizeimage-u145603.png" crc="4005590237" ref="index"/>
-    <file name="webpnet-resizeimage-u1456032.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1456033.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1456034.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1456035.png" crc="430737377" ref="index"/>
-    <file name="01-cloud service@2x.png" crc="362999535" seo="true" ref="index:copy-of-previous-mvp">
+    <file name="webpnet-resizeimage-u144780.png" crc="4007785277" ref="price"/>
+    <file name="webpnet-resizeimage-u1447802.png" crc="265626463" ref="price"/>
+    <file name="webpnet-resizeimage-u1447803.png" crc="265626463" ref="price"/>
+    <file name="webpnet-resizeimage-u1447804.png" crc="265626463" ref="price"/>
+    <file name="webpnet-resizeimage-u1447805.png" crc="265626463" ref="price"/>
+    <file name="01-cloud service@2x.png" crc="362999535" seo="true" ref="copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -927,7 +696,7 @@
       <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
-    <file name="output-onlinepngtools (7).png" crc="3836272631" seo="true" ref="index:copy-of-previous-mvp">
+    <file name="output-onlinepngtools (7).png" crc="3836272631" seo="true" ref="copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -951,16 +720,16 @@
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
     </file>
     <file name="slack-logo.png" crc="136609643" seo="true" ref="index:approach:price">
       <caption webpage="index" alt=""/>
@@ -971,25 +740,25 @@
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-u146233.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u146335.png" crc="4005590237" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1462332.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1463352.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1462333.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1463353.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1462334.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1463354.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1462335.png" crc="430737377" ref="home--copy"/>
-    <file name="webpnet-resizeimage-u1463355.png" crc="430737377" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u146233.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u146335.png" crc="419564901" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1462332.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1463352.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1462333.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1463353.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1462334.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1463354.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1462335.png" crc="265626463" ref="home--copy"/>
+    <file name="webpnet-resizeimage-u1463355.png" crc="265626463" ref="home--copy"/>
     <file name="basenube approach (5).jpg" crc="4154233717" seo="true" ref="approach">
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
@@ -997,18 +766,18 @@
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-u150666.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u150737.png" crc="4005590237" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1506662.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1507372.png" crc="4005590237" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1506663.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1507373.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1506664.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1507374.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1506665.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1507375.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1506666.png" crc="430737377" ref="copy-of-previous-mvp"/>
-    <file name="webpnet-resizeimage-u1507376.png" crc="430737377" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u150666.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u150737.png" crc="419564901" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1506662.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1507372.png" crc="419564901" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1506663.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1507373.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1506664.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1507374.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1506665.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1507375.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1506666.png" crc="265626463" ref="copy-of-previous-mvp"/>
+    <file name="webpnet-resizeimage-u1507376.png" crc="265626463" ref="copy-of-previous-mvp"/>
     <file name="output-onlinepngtools (12)-u131765-4-fr.png" crc="52447881" ref="index"/>
     <file name="output-onlinepngtools (13)-u131765-4-a-fr.png" crc="4103131665" ref="index"/>
     <file name="output-onlinepngtools (10)-u152727.png" crc="135322172" ref="index"/>
@@ -1059,10 +828,97 @@
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
     </file>
+    <file name="output-onlinepngtools (21).png" crc="393741433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19).png" crc="4018748601" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22).png" crc="186679074" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6).png" crc="214639563" ref="index">
+      <caption webpage="index" alt="Connect With Us"/>
+      <caption webpage="index" alt="Connect With Us"/>
+      <caption webpage="index" alt="Connect With Us"/>
+      <caption webpage="index" alt="Connect With Us"/>
+      <caption webpage="index" alt="Connect With Us"/>
+    </file>
+    <file name="156640115937376213 (9).png" crc="290845493" ref="index">
+      <caption webpage="index" alt="Our Company As Code"/>
+      <caption webpage="index" alt="Our Company As Code"/>
+      <caption webpage="index" alt="Our Company As Code"/>
+      <caption webpage="index" alt="Our Company As Code"/>
+      <caption webpage="index" alt="Our Company As Code"/>
+    </file>
+    <file name="156640115937376213 (10).png" crc="3844063186" ref="index">
+      <caption webpage="index" alt="Our Docker Locker"/>
+      <caption webpage="index" alt="Our Docker Locker"/>
+      <caption webpage="index" alt="Our Docker Locker"/>
+      <caption webpage="index" alt="Our Docker Locker"/>
+      <caption webpage="index" alt="Our Docker Locker"/>
+    </file>
+    <file name="156640115937376213 (11).png" crc="446278689" ref="index">
+      <caption webpage="index" alt="Help Us Level Up"/>
+      <caption webpage="index" alt="Help Us Level Up"/>
+      <caption webpage="index" alt="Help Us Level Up"/>
+      <caption webpage="index" alt="Help Us Level Up"/>
+      <caption webpage="index" alt="Help Us Level Up"/>
+    </file>
+    <file name="156640115937376213 (4).png" crc="200314400" ref="index">
+      <caption webpage="index" alt="Catch Us Live"/>
+      <caption webpage="index" alt="Catch Us Live"/>
+      <caption webpage="index" alt="Catch Us Live"/>
+      <caption webpage="index" alt="Catch Us Live"/>
+      <caption webpage="index" alt="Catch Us Live"/>
+    </file>
+    <file name="156640115937376213 (1).png" crc="4220587078" ref="index">
+      <caption webpage="index" alt="Cambridge, MA"/>
+      <caption webpage="index" alt="Cambridge, MA"/>
+      <caption webpage="index" alt="Cambridge, MA"/>
+      <caption webpage="index" alt="Cambridge, MA"/>
+      <caption webpage="index" alt="Cambridge, MA"/>
+    </file>
+    <file name="156640115937376213 (3).png" crc="4035241218" ref="index">
+      <caption webpage="index" alt="(617) 299-6044"/>
+      <caption webpage="index" alt="(617) 299-6044"/>
+      <caption webpage="index" alt="(617) 299-6044"/>
+      <caption webpage="index" alt="(617) 299-6044"/>
+      <caption webpage="index" alt="(617) 299-6044"/>
+    </file>
+    <file name="156640115937376213 (2).png" crc="439918509" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-u157798.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u157828.png" crc="95008900" ref="index"/>
+    <file name="webpnet-resizeimage-u1577982.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1578282.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1577983.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1578283.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1577984.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1578284.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1577985.png" crc="430737377" ref="index"/>
+    <file name="webpnet-resizeimage-u1578285.png" crc="430737377" ref="index"/>
   </folder>
-  <file name="index.html" crc="301731856" seo="true" mt="1566232841409" redirect="true"/>
-  <file name="approach.html" crc="3921398394" seo="true" mt="1566232812881" redirect="true"/>
-  <file name="price.html" crc="315764317" seo="true" mt="1566232812882" redirect="true"/>
-  <file name="home--copy.html" crc="3972400401" seo="true" mt="1566232540110" redirect="true"/>
-  <file name="copy-of-previous-mvp.html" crc="181947949" seo="true" mt="1566232540110" redirect="true"/>
+  <file name="index.html" crc="247761878" seo="true" mt="1566407537966" redirect="true"/>
+  <file name="approach.html" crc="338137722" seo="true" mt="1566407537966" redirect="true"/>
+  <file name="price.html" crc="3888649406" seo="true" mt="1566407537966" redirect="true"/>
+  <file name="home--copy.html" crc="3854022713" seo="true" mt="1566406707929" redirect="true"/>
+  <file name="copy-of-previous-mvp.html" crc="469668930" seo="true" mt="1566406707873" redirect="true"/>
 </manifest>
