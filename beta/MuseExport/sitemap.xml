@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.rometheme.net/muse/coxe/index.html</loc>
-    <lastmod>2019-08-21</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,9 +16,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/7.png</image:loc>
@@ -59,10 +56,16 @@
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(22).png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(23).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156650699048625352.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/approach.html</loc>
-    <lastmod>2019-08-21</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,7 +92,7 @@
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/price.html</loc>
-    <lastmod>2019-08-21</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -161,7 +164,7 @@
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/copy-of-previous-mvp.html</loc>
-    <lastmod>2019-08-21</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
