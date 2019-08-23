@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.rometheme.net/muse/coxe/index.html</loc>
-    <lastmod>2019-08-22</lastmod>
+    <lastmod>2019-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -27,9 +27,6 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/basenubeback-crop.jpg</image:loc>
     </image:image>
     <image:image>
@@ -37,9 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/basenube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/1_d9mxw4wpvrlxhgg6eap-pg.png</image:loc>
@@ -57,6 +51,18 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(22).png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(6).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(9).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(10).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(4).png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(23).png</image:loc>
     </image:image>
     <image:image>
@@ -65,21 +71,9 @@
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/approach.html</loc>
-    <lastmod>2019-08-22</lastmod>
+    <lastmod>2019-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/basenube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-logo.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/basenube%20approach%20(5).jpg</image:loc>
     </image:image>
@@ -92,7 +86,7 @@
   </url>
   <url>
     <loc>http://www.rometheme.net/muse/coxe/price.html</loc>
-    <lastmod>2019-08-22</lastmod>
+    <lastmod>2019-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -102,16 +96,7 @@
       <image:loc>http://www.rometheme.net/muse/coxe/images/72.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/basenube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-logo.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -205,6 +190,69 @@
     </image:image>
     <image:image>
       <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(7).png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.rometheme.net/muse/coxe/breakpoints-testing.html</loc>
+    <lastmod>2019-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/logo-terraform-38bd0e32.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/favicon-194x194-bb8de46a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/android-chrome-512x512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/977804-64.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-1425878-1205069.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/docker-4-532129%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/basenubeback-crop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/basenube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/slack-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/1_d9mxw4wpvrlxhgg6eap-pg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/okta-circle-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(6).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(9).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(10).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156640115937376213%20(4).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/output-onlinepngtools%20(23).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.rometheme.net/muse/coxe/images/156650699048625352.gif</image:loc>
     </image:image>
   </url>
 </urlset>
