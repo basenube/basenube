@@ -1,45 +1,40 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1566592453433">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rometheme.net/muse/coxe" resolutions="1x" timestamp="1566862808199">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="approach.css" crc="4230164545" ref="approach"/>
-    <file name="nomq_approach.css" crc="3906869698" ref="approach"/>
-    <file name="index.css" crc="3999781376" ref="index"/>
-    <file name="nomq_index.css" crc="437854523" ref="index"/>
-    <file name="price.css" crc="3958736476" ref="price"/>
-    <file name="nomq_price.css" crc="33230818" ref="price"/>
-    <file name="home--copy.css" crc="4284116930" ref="home--copy"/>
-    <file name="nomq_home--copy.css" crc="459183061" ref="home--copy"/>
+    <file name="index.css" crc="266580889" ref="index"/>
+    <file name="nomq_index.css" crc="3840270151" ref="index"/>
+    <file name="home--copy.css" crc="410044590" ref="home--copy"/>
+    <file name="nomq_home--copy.css" crc="191303098" ref="home--copy"/>
     <file name="iefonts_home--copy.css" crc="3824530138" ref="home--copy"/>
-    <file name="copy-of-previous-mvp.css" crc="40284316" ref="copy-of-previous-mvp"/>
-    <file name="nomq_copy-of-previous-mvp.css" crc="519004493" ref="copy-of-previous-mvp"/>
-    <file name="master_duplicate-footer.css" crc="372735017" ref="breakpoints-testing"/>
+    <file name="copy-of-previous-mvp.css" crc="504985854" ref="copy-of-previous-mvp"/>
+    <file name="nomq_copy-of-previous-mvp.css" crc="58730230" ref="copy-of-previous-mvp"/>
+    <file name="master_duplicate-footer.css" crc="379072672" ref="breakpoints-testing"/>
     <file name="nomq_preview_master_duplicate-footer.css" crc="3824530138" ref="breakpoints-testing"/>
-    <file name="master_-breakpoints-testing-master.css" crc="243285514" ref="index"/>
+    <file name="master_-breakpoints-testing-master.css" crc="4007665935" ref="index"/>
     <file name="nomq_preview_master_-breakpoints-testing-master.css" crc="4205842903" ref="index"/>
-    <file name="breakpoints-testing.css" crc="495364530" ref="breakpoints-testing"/>
-    <file name="nomq_breakpoints-testing.css" crc="4089155402" ref="breakpoints-testing"/>
-    <file name="iefonts_price.css" crc="3824530138" ref="price"/>
+    <file name="breakpoints-testing.css" crc="198643406" ref="breakpoints-testing"/>
+    <file name="nomq_breakpoints-testing.css" crc="99098618" ref="breakpoints-testing"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="museutils.js" crc="340535759" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="whatinput.js" crc="86476730" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="museconfig.js" crc="310584261" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="webpro.js" crc="4059564322" ref="index:approach:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:approach:breakpoints-testing"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:approach:breakpoints-testing"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:approach:breakpoints-testing"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:approach:home--copy:copy-of-previous-mvp"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="museutils.js" crc="340535759" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="museconfig.js" crc="310584261" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="webpro.js" crc="4059564322" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:breakpoints-testing"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:breakpoints-testing"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:breakpoints-testing"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:home--copy:copy-of-previous-mvp"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="breakpoints-testing"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
-    <file name="require.js" crc="7928878" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="breakpoints-testing"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="require.js" crc="7928878" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:approach:price:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
+    <file name="blank.gif" crc="4208392903" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing"/>
     <file name="loading.gif" crc="3815509949" ref="index:breakpoints-testing"/>
     <file name="12.png" crc="3916474713" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -74,17 +69,17 @@
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="favicon-194x194-bb8de46a.png" crc="3970337233" seo="true" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing">
       <caption webpage="index" alt=""/>
@@ -96,72 +91,71 @@
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="android-chrome-512x512.png" crc="296067459" seo="true" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="977804-64.png" crc="454649923" seo="true" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing">
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="get-price" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -171,21 +165,21 @@
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
       <caption webpage="what-we-do" alt=""/>
       <caption webpage="what-we-do" alt=""/>
       <caption webpage="what-we-do" alt=""/>
       <caption webpage="what-we-do" alt=""/>
       <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
     </file>
     <file name="og-image-6ef0ad8b.png" crc="4164537773" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -193,17 +187,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="2.png" crc="4031321287" seo="true" ref="home--copy">
       <caption webpage="index" alt=""/>
@@ -227,21 +221,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
@@ -252,17 +236,32 @@
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
     </file>
     <file name="10.png" crc="17015771" seo="true" ref="home--copy:index:breakpoints-testing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
@@ -273,13 +272,8 @@
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
     </file>
-    <file name="slack-1425878-1205069.png" crc="285773659" seo="true" ref="index:price:home--copy:copy-of-previous-mvp:breakpoints-testing">
+    <file name="72.png" crc="46856914" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
@@ -295,263 +289,122 @@
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-    </file>
-    <file name="72.png" crc="46856914" seo="true" ref="home--copy:price:copy-of-previous-mvp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="get-price" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
       <caption webpage="approach" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
     </file>
     <file name="output-onlinepngtools (6).png" crc="3940299796" seo="true" ref="home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
@@ -560,33 +413,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
     <file name="docker-4-532129 (1).png" crc="4209529095" seo="true" ref="breakpoints-testing">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
-      <caption webpage="what-we-do" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
@@ -596,103 +435,119 @@
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="the-team" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
-      <caption webpage="our-approach" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="finished-page" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="services-version-01" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
+      <caption webpage="the-team" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="services-version-01" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
-      <caption webpage="finished-page" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
+      <caption webpage="our-approach" alt=""/>
     </file>
     <file name="basenubeback-crop.jpg" crc="4148962436" seo="true" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
       <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
     </file>
-    <file name="output-onlinepngtools (5).png" crc="4035070587" seo="true" ref="index:price:home--copy:copy-of-previous-mvp">
+    <file name="output-onlinepngtools (5).png" crc="4035070587" seo="true" ref="index:home--copy:copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
       <caption webpage="get-price" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
@@ -704,17 +559,7 @@
       <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="copy-of-previous-mvp" alt=""/>
       <caption webpage="copy-of-previous-mvp" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
-      <caption webpage="home--copy" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-u144780.png" crc="4007785277" ref="price"/>
-    <file name="webpnet-resizeimage-u1447802.png" crc="265626463" ref="price"/>
-    <file name="webpnet-resizeimage-u1447803.png" crc="265626463" ref="price"/>
-    <file name="webpnet-resizeimage-u1447804.png" crc="265626463" ref="price"/>
-    <file name="webpnet-resizeimage-u1447805.png" crc="265626463" ref="price"/>
     <file name="01-cloud service@2x.png" crc="362999535" seo="true" ref="copy-of-previous-mvp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -746,40 +591,40 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="price" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
-      <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
       <caption webpage="finished-page" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
     </file>
     <file name="slack-logo.png" crc="136609643" seo="true" ref="breakpoints-testing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
+      <caption webpage="approach" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
@@ -799,13 +644,6 @@
     <file name="webpnet-resizeimage-u1463354.png" crc="265626463" ref="home--copy"/>
     <file name="webpnet-resizeimage-u1462335.png" crc="265626463" ref="home--copy"/>
     <file name="webpnet-resizeimage-u1463355.png" crc="265626463" ref="home--copy"/>
-    <file name="basenube approach (5).jpg" crc="4154233717" seo="true" ref="approach">
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-    </file>
     <file name="webpnet-resizeimage-u150666.png" crc="265626463" ref="copy-of-previous-mvp"/>
     <file name="webpnet-resizeimage-u150737.png" crc="419564901" ref="copy-of-previous-mvp"/>
     <file name="webpnet-resizeimage-u1506662.png" crc="265626463" ref="copy-of-previous-mvp"/>
@@ -821,8 +659,6 @@
     <file name="output-onlinepngtools (12)-u131765-4-fr.png" crc="4159926560" ref="index"/>
     <file name="output-onlinepngtools (13)-u131765-4-a-fr.png" crc="471779715" ref="index"/>
     <file name="output-onlinepngtools (10)-u152727.png" crc="364176543" ref="index"/>
-    <file name="output-onlinepngtools (10)-u1527272.png" crc="299272935" ref="index"/>
-    <file name="output-onlinepngtools (10)-u1527273.png" crc="299272935" ref="index"/>
     <file name="1_d9mxw4wpvrlxhgg6eap-pg.png" crc="4207539692" seo="true" ref="index:breakpoints-testing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -838,7 +674,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
@@ -846,20 +681,6 @@
       <caption webpage="breakpoints-testing" alt=""/>
     </file>
     <file name="favicon.ico" crc="4233762698" ref="index"/>
-    <file name="pricing model (1).png" crc="3902830126" seo="true" ref="approach">
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-    </file>
-    <file name="consulting.png" crc="165294866" seo="true" ref="approach">
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-      <caption webpage="approach" alt=""/>
-    </file>
     <file name="output-onlinepngtools (21).png" crc="393741433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -867,12 +688,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="output-onlinepngtools (19).png" crc="4018748601" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -955,7 +770,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
       <caption webpage="breakpoints-testing" alt=""/>
@@ -975,25 +789,62 @@
     </file>
     <file name="u158319.png" crc="136418766" ref="breakpoints-testing"/>
     <file name="u158319-a.png" crc="198533948" ref="breakpoints-testing"/>
-    <file name="webpnet-resizeimage-u166177.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u166205.png" crc="264462569" ref="index"/>
-    <file name="webpnet-resizeimage-u1661772.png" crc="139519384" ref="index"/>
-    <file name="webpnet-resizeimage-u1662052.png" crc="264462569" ref="index"/>
-    <file name="webpnet-resizeimage-u1661773.png" crc="430737377" ref="index"/>
-    <file name="webpnet-resizeimage-u1662053.png" crc="264462569" ref="index"/>
-    <file name="webpnet-resizeimage-u1661774.png" crc="430737377" ref="index"/>
     <file name="output-onlinepngtools (10)-u160790.png" crc="135322172" ref="breakpoints-testing"/>
     <file name="output-onlinepngtools (10)-u1607902.png" crc="299272935" ref="breakpoints-testing"/>
     <file name="output-onlinepngtools (10)-u1607903.png" crc="299272935" ref="breakpoints-testing"/>
     <file name="output-onlinepngtools (10)-u1607904.png" crc="299272935" ref="breakpoints-testing"/>
     <file name="output-onlinepngtools (10)-u1607905.png" crc="299272935" ref="breakpoints-testing"/>
     <file name="output-onlinepngtools (10)-u170332.png" crc="218371794" ref="index"/>
-    <file name="webpnet-resizeimage-u170877.png" crc="4058975562" ref="index"/>
+    <file name="slack.png" crc="44185058" seo="true" ref="index:home--copy:copy-of-previous-mvp:breakpoints-testing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="breakpoints-testing" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="home--copy" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+      <caption webpage="copy-of-previous-mvp" alt=""/>
+    </file>
+    <file name="basenubeback-crop966x577.jpg" crc="245076617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-u171804.png" crc="27211594" ref="index"/>
+    <file name="output-onlinepngtools (10)-u174942.png" crc="300983919" ref="index"/>
+    <file name="basenubeback-crop494x295.jpg" crc="4103108921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="android-chrome-512x512-crop-u179622.png" crc="4288602588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okta-circle-logo-crop-u179620.png" crc="4177199395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (7).png" crc="4057879950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4258197428" seo="true" mt="1566592347863" redirect="true"/>
-  <file name="approach.html" crc="4110284887" seo="true" mt="1566568256069" redirect="true"/>
-  <file name="price.html" crc="4068892227" seo="true" mt="1566568258088" redirect="true"/>
-  <file name="home--copy.html" crc="3854022713" seo="true" mt="1566406707929" redirect="true"/>
-  <file name="copy-of-previous-mvp.html" crc="4200457414" seo="true" mt="1566479264916" redirect="true"/>
-  <file name="breakpoints-testing.html" crc="3819184693" seo="true" mt="1566578200791" redirect="true"/>
+  <file name="index.html" crc="452998297" seo="true" mt="1566862731825" redirect="true"/>
+  <file name="home--copy.html" crc="4154943338" seo="true" mt="1566856737238" redirect="true"/>
+  <file name="copy-of-previous-mvp.html" crc="4274720497" seo="true" mt="1566856737156" redirect="true"/>
+  <file name="breakpoints-testing.html" crc="332189347" seo="true" mt="1566856970883" redirect="true"/>
 </manifest>
