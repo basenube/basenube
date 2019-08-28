@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567034369485">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567034623303">
   <folder name="css">
-    <file name="site_global.css" crc="4281548360"/>
-    <file name="master_-breakpoints-testing-master.css" crc="418279280" ref="index"/>
-    <file name="nomq_preview_master_-breakpoints-testing-master.css" crc="4042108257" ref="index"/>
-    <file name="index.css" crc="4257466383" ref="index"/>
-    <file name="nomq_index.css" crc="4114354483" ref="index"/>
+    <file name="site_global.css" crc="4241819529"/>
+    <file name="master_-breakpoints-testing-master.css" crc="4216854345" ref="index"/>
+    <file name="nomq_preview_master_-breakpoints-testing-master.css" crc="103802495" ref="index"/>
+    <file name="index.css" crc="213570239" ref="index"/>
+    <file name="nomq_index.css" crc="239637452" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -184,7 +184,7 @@
     <file name="output-onlinepngtools (23).png" crc="57962179" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (10)-u174942.png" crc="4247329593" ref="index"/>
+    <file name="output-onlinepngtools (10)-u174942.png" crc="300983919" ref="index"/>
     <file name="basenubeback-crop494x295.jpg" crc="4103108921" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -194,7 +194,7 @@
     <file name="okta-circle-logo-crop-u179620.png" crc="4177199395" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (10)-u182834.png" crc="3816549443" ref="index"/>
+    <file name="output-onlinepngtools (10)-u182834.png" crc="4289881865" ref="index"/>
   </folder>
-  <file name="index.html" crc="3983414770" seo="true" mt="1567023986823" redirect="true"/>
+  <file name="index.html" crc="3962053443" seo="true" mt="1567034564942" redirect="true"/>
 </manifest>
