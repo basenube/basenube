@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567027156819">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567034369485">
   <folder name="css">
     <file name="site_global.css" crc="4281548360"/>
     <file name="master_-breakpoints-testing-master.css" crc="418279280" ref="index"/>
     <file name="nomq_preview_master_-breakpoints-testing-master.css" crc="4042108257" ref="index"/>
-    <file name="index.css" crc="458379801" ref="index"/>
-    <file name="nomq_index.css" crc="374168939" ref="index"/>
+    <file name="index.css" crc="4257466383" ref="index"/>
+    <file name="nomq_index.css" crc="4114354483" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -196,5 +196,5 @@
     </file>
     <file name="output-onlinepngtools (10)-u182834.png" crc="3816549443" ref="index"/>
   </folder>
-  <file name="index.html" crc="4266957370" seo="true" mt="1567023986823" redirect="true"/>
+  <file name="index.html" crc="3983414770" seo="true" mt="1567023986823" redirect="true"/>
 </manifest>
