@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567088367436">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x" timestamp="1567089005877">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_-breakpoints-testing-master.css" crc="4216854345" ref="index"/>
     <file name="nomq_preview_master_-breakpoints-testing-master.css" crc="103802495" ref="index"/>
-    <file name="index.css" crc="112485667" ref="index"/>
+    <file name="index.css" crc="213570239" ref="index"/>
     <file name="nomq_index.css" crc="239637452" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -196,5 +196,5 @@
     </file>
     <file name="output-onlinepngtools (10)-u182834.png" crc="3816549443" ref="index"/>
   </folder>
-  <file name="index.html" crc="4033256875" seo="true" mt="1567088338828" redirect="true"/>
+  <file name="index.html" crc="206656570" seo="true" mt="1567087959369" redirect="true"/>
 </manifest>
