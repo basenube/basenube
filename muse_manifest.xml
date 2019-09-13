@@ -1,10 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568408006346">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568416782413">
+  <folder name="assets">
+    <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
+    <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="index.css" crc="383300478" ref="index"/>
-    <file name="nomq_index.css" crc="424019162" ref="index"/>
-    <file name="master_fluid-master.css" crc="4007202866" ref="index"/>
-    <file name="nomq_preview_master_fluid-master.css" crc="3987646931" ref="index"/>
+    <file name="index.css" crc="201660888" ref="index"/>
+    <file name="nomq_index.css" crc="4116437039" ref="index"/>
+    <file name="master_fluid-master.css" crc="267325318" ref="index"/>
+    <file name="nomq_preview_master_fluid-master.css" crc="3969336672" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -500,7 +504,6 @@
     </file>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426.png" crc="4283337762" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x.png" crc="4039705415" ref="index"/>
-    <file name="getty_595346707_362583-u192507-fr.png" crc="4234096860" ref="index"/>
     <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -532,6 +535,7 @@
     <file name="sean-pollock-phyq704ffda-unsplash-u210725-fr.png" crc="534647538" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1924262.png" crc="3929599543" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x2.png" crc="122443272" ref="index"/>
+    <file name="getty_595346707_362583-u192507-fr.png" crc="4234096860" ref="index"/>
   </folder>
-  <file name="index.html" crc="3872792815" seo="true" mt="1568407947426" redirect="true"/>
+  <file name="index.html" crc="1261549" seo="true" mt="1568416734195" redirect="true"/>
 </manifest>

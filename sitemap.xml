@@ -249,4 +249,16 @@
       <image:loc>http://www.basenube.com/images/basenubeback-crop1116x666.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://www.basenube.com/assets/parallax.js</loc>
+    <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/parallax.min.js</loc>
+    <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
