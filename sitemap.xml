@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.basenube.com/index.html</loc>
-    <lastmod>2019-09-04</lastmod>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,9 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/basenube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32.png</image:loc>
@@ -48,9 +45,6 @@
       <image:loc>http://www.basenube.com/images/slack.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5).png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/156650699048625352.gif</image:loc>
     </image:image>
     <image:image>
@@ -69,18 +63,6 @@
       <image:loc>http://www.basenube.com/images/156640115937376213%20(10).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop966x577.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop494x295.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/android-chrome-512x512-crop-u179622.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/okta-circle-logo-crop-u179620.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21)_2x.png</image:loc>
     </image:image>
     <image:image>
@@ -88,9 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32_2x.png</image:loc>
@@ -123,12 +102,6 @@
       <image:loc>http://www.basenube.com/images/slack_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4129x153.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4129x153_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/156650699048625352_2x.gif</image:loc>
     </image:image>
     <image:image>
@@ -151,15 +124,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/156640115937376213%20(10)_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop1393x831.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4117x140.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4117x140_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)68x68.png</image:loc>
@@ -228,22 +192,10 @@
       <image:loc>http://www.basenube.com/images/webpnet-resizeimage%20(10)337x316_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4126x150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4126x150_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/slack85x36.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/slack85x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)53x53.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)53x53_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/156640115937376213%20(9)43x44.png</image:loc>
@@ -276,208 +228,25 @@
       <image:loc>http://www.basenube.com/images/156640115937376213%20(4)38x39_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop966x577_2x.jpg</image:loc>
+      <image:loc>http://www.basenube.com/images/23.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)59x59.png</image:loc>
+      <image:loc>http://www.basenube.com/images/23974x904.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)59x59_2x.png</image:loc>
+      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)89x89.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21)47x47.png</image:loc>
+      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)89x89_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21)47x47_2x.png</image:loc>
+      <image:loc>http://www.basenube.com/images/23728x676.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)54x54.png</image:loc>
+      <image:loc>http://www.basenube.com/images/23554x514.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)54x54_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e3256x56.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e3256x56_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/android-chrome-512x51254x54.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/android-chrome-512x51254x54_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/okta-circle-logo54x54.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/okta-circle-logo54x54_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1_d9mxw4wpvrlxhgg6eap-pg61x60.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1_d9mxw4wpvrlxhgg6eap-pg61x60_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/favicon-194x194-bb8de46a61x61.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/favicon-194x194-bb8de46a61x61_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/758x58.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/758x58_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1057x57.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1057x57_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(23)60x60.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(23)_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage%20(10)399x374.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage%20(10)399x374_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack56x24.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack56x24_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)43x43_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(6)30x30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(6)30x30_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/15669186417242465733x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/15669186417242465733x33_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack_icon29x29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack_icon29x29_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(9)30x30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(9)30x30_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(10)30x30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(10)30x30_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(4)30x30.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/156640115937376213%20(4)30x30_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop494x295_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenube79x35.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenube79x35_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)58x58.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)58x58_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21)41x41.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21)41x41_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)48x48.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)48x48_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e3241x41.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e3241x41_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/android-chrome-512x512-crop-u179622_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/okta-circle-logo-crop-u179620_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1_d9mxw4wpvrlxhgg6eap-pg51x50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1_d9mxw4wpvrlxhgg6eap-pg51x50_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/favicon-194x194-bb8de46a51x51.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/favicon-194x194-bb8de46a51x51_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/750x50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/750x50_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1052x53.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/1052x53_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack_icon44x44.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/slack_icon44x44_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(5)36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4164x196.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4164x196_2x.png</image:loc>
+      <image:loc>http://www.basenube.com/images/basenubeback-crop1116x666.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
