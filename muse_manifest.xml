@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568585146910">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568664036293">
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
     <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4281548360"/>
-    <file name="index.css" crc="3914895450" ref="index"/>
-    <file name="nomq_index.css" crc="138878930" ref="index"/>
+    <file name="index.css" crc="295727957" ref="index"/>
+    <file name="nomq_index.css" crc="76982998" ref="index"/>
     <file name="master_fluid-master.css" crc="4121295945" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="3969336672" ref="index"/>
   </folder>
@@ -29,25 +29,23 @@
     <file name="favicon.ico" crc="65948408" ref="index"/>
     <file name="basenubeback-crop.jpg" crc="3888118044" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (22).png" crc="111252150" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -57,23 +55,22 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (19).png" crc="126638862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="basenube.png" crc="438787145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -81,24 +78,23 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="logo-terraform-38bd0e32.png" crc="462028043" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="977804-64.png" crc="454649923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -106,33 +102,35 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="1_d9mxw4wpvrlxhgg6eap-pg.png" crc="3908181230" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="okta-circle-logo.png" crc="3891734325" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="10.png" crc="17015771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -140,47 +138,45 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (24).png" crc="4191879742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="webpnet-resizeimage (10).png" crc="4017103918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="slack.png" crc="322237175" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156650699048625352.gif" crc="4127510701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
@@ -190,13 +186,14 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156691864172424657.png" crc="4049540520" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -204,72 +201,75 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (9).png" crc="290845493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (6).png" crc="366040744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (4).png" crc="200314400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (10).png" crc="215480981" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (21)_2x.png" crc="4248902655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (22)_2x.png" crc="4049107722" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (19)_2x.png" crc="4219859225" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="logo-terraform-38bd0e32_2x.png" crc="372544508" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="1_d9mxw4wpvrlxhgg6eap-pg_2x.png" crc="3856978245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="favicon-194x194-bb8de46a94x94.png" crc="345172648" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -289,35 +289,35 @@
     </file>
     <file name="okta-circle-logo_2x.png" crc="3943048169" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (24)_2x.png" crc="401778571" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="webpnet-resizeimage (10)_2x.png" crc="135516149" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="slack_2x.png" crc="3904481600" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156650699048625352_2x.gif" crc="4127510701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="slack_icon45x45.png" crc="224829533" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -326,38 +326,38 @@
     </file>
     <file name="slack_icon_2x.png" crc="3989550146" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156691864172424657_2x.png" crc="3950641965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (9)_2x.png" crc="290845493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (6)_2x.png" crc="3905829276" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (4)_2x.png" crc="200314400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="156640115937376213 (10)_2x.png" crc="168441280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
+      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
     <file name="output-onlinepngtools (19)68x68.png" crc="4187648283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -501,8 +501,8 @@
     <file name="23974x904.png" crc="466550111" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426.png" crc="464216051" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x.png" crc="399709754" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426.png" crc="128685985" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x.png" crc="3994283162" ref="index"/>
     <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -516,8 +516,8 @@
     <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4010667703" ref="index"/>
     <file name="sean-pollock-phyq704ffda-unsplash-u210725-fr.jpg" crc="301395413" ref="index"/>
     <file name="sean-pollock-phyq704ffda-unsplash-u203594-fr.png" crc="4044219104" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="3929599543" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="122443272" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="3849219945" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="4209578883" ref="index"/>
     <file name="23728x676.png" crc="3897526164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -527,19 +527,27 @@
     <file name="basenubeback-crop1116x666.jpg" crc="103919499" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1927862.png" crc="410550950" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x2.png" crc="4002320284" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1927862.png" crc="3825156830" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x2.png" crc="172902044" ref="index"/>
     <file name="dylan-gillis-kdeqa3atnby-unsplash-u192525-fr.png" crc="3964645381" ref="index"/>
     <file name="sean-pollock-phyq704ffda-unsplash-u210725-fr.png" crc="534647538" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1924262.png" crc="3929599543" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x2.png" crc="122443272" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1924262.png" crc="474750919" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x2.png" crc="125874001" ref="index"/>
     <file name="getty_595346707_362583-u192507-fr.png" crc="4234096860" ref="index"/>
     <file name="oulkeasmkk9s7jp0to9qwi7oo4.png" crc="4032236083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="oulkeasmkk9s7jp0to9qwi7oo4104x104.png" crc="3846735845" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4159343235" seo="true" mt="1568585102027" redirect="true"/>
+  <file name="index.html" crc="126194268" seo="true" mt="1568663992132" redirect="true"/>
 </manifest>
