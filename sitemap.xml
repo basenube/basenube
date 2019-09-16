@@ -256,13 +256,25 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.basenube.com/assets/parallax.min.js</loc>
+    <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.basenube.com/assets/parallax.js</loc>
     <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.basenube.com/assets/parallax.min.js</loc>
+    <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>
+    <lastmod>2019-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/dylan-gillis-kdeqa3atnby-unsplash-(1).jpg</loc>
     <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
