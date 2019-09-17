@@ -1,16 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568669019142">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568735414399">
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
     <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
     <file name="dylan-gillis-kdeqa3atnby-unsplash-(1).jpg" crc="3788179615" seo="true" mt="1568414410000"/>
     <file name="overlay-pattern.png" crc="4037955743" seo="true" mt="1568667591000"/>
+    <file name="webp.net-resizeimage-(2).jpg" crc="444527866" seo="true" mt="1568731177000"/>
+    <file name="webp.net-resizeimage-(3).jpg" crc="4074355917" seo="true" mt="1568731487000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4281548360"/>
-    <file name="index.css" crc="265971884" ref="index"/>
-    <file name="nomq_index.css" crc="3908633002" ref="index"/>
-    <file name="master_fluid-master.css" crc="4121295945" ref="index"/>
-    <file name="nomq_preview_master_fluid-master.css" crc="3969336672" ref="index"/>
+    <file name="site_global.css" crc="4241819529"/>
+    <file name="index.css" crc="4173483003" ref="index"/>
+    <file name="nomq_index.css" crc="441365136" ref="index"/>
+    <file name="master_fluid-master.css" crc="4078453118" ref="index"/>
+    <file name="nomq_preview_master_fluid-master.css" crc="4191697298" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,13 +31,6 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="65948408" ref="index"/>
-    <file name="basenubeback-crop.jpg" crc="3888118044" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
     <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
@@ -68,20 +63,6 @@
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="fluid-object-testing" alt=""/>
       <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="basenube.png" crc="438787145" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
       <caption webpage="fluid---basenube" alt=""/>
     </file>
     <file name="logo-terraform-38bd0e32.png" crc="462028043" seo="true" ref="index">
@@ -497,43 +478,22 @@
       <caption webpage="index" alt=""/>
       <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
     </file>
-    <file name="23.png" crc="171664562" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23974x904.png" crc="466550111" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426.png" crc="4283337762" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x.png" crc="4039705415" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426.png" crc="3854316810" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x.png" crc="4156249106" ref="index"/>
     <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="output-onlinepngtools (22)89x89_2x.png" crc="406562824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (12)-u192431-5-fr.png" crc="4059007465" ref="index"/>
-    <file name="output-onlinepngtools (12)-u192431-5-fr_2x.png" crc="3843365010" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr.png" crc="524966264" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4010667703" ref="index"/>
-    <file name="sean-pollock-phyq704ffda-unsplash-u210725-fr.jpg" crc="301395413" ref="index"/>
-    <file name="sean-pollock-phyq704ffda-unsplash-u203594-fr.png" crc="4044219104" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192431-5-fr.png" crc="370071411" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192431-5-fr_2x.png" crc="88796591" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-5-a-fr.png" crc="261440967" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4279282767" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="3929599543" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="122443272" ref="index"/>
-    <file name="23728x676.png" crc="3897526164" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="23554x514.png" crc="75746609" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="basenubeback-crop1116x666.jpg" crc="103919499" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1927862.png" crc="410550950" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x2.png" crc="4002320284" ref="index"/>
-    <file name="sean-pollock-phyq704ffda-unsplash-u210725-fr.png" crc="534647538" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u1924262.png" crc="3929599543" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192426_2x2.png" crc="122443272" ref="index"/>
-    <file name="getty_595346707_362583-u192507-fr.png" crc="4234096860" ref="index"/>
     <file name="oulkeasmkk9s7jp0to9qwi7oo4.png" crc="4032236083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -548,6 +508,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="basenubeback-crop (2).jpg" crc="3888118044" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (12)-u192694-5-fr.png" crc="4059007465" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192694-5-fr_2x.png" crc="3843365010" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192694-5-a-fr.png" crc="524966264" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192694-5-a-fr_2x.png" crc="4010667703" ref="index"/>
+    <file name="basenube.png" crc="438787145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4129x154.png" crc="261143513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4129x154_2x.png" crc="4162758681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="80512772" seo="true" mt="1568668962957" redirect="true"/>
+  <file name="index.html" crc="42523987" seo="true" mt="1568735377228" redirect="true"/>
 </manifest>

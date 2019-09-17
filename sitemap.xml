@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.basenube.com/index.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(21).png</image:loc>
     </image:image>
@@ -16,9 +13,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenube.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32.png</image:loc>
@@ -228,25 +222,10 @@
       <image:loc>http://www.basenube.com/images/156640115937376213%20(4)38x39_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/23.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/23974x904.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)89x89.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)89x89_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/23728x676.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/23554x514.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/basenubeback-crop1116x666.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/oulkeasmkk9s7jp0to9qwi7oo4.png</image:loc>
@@ -254,9 +233,24 @@
     <image:image>
       <image:loc>http://www.basenube.com/images/oulkeasmkk9s7jp0to9qwi7oo4104x104.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/basenube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4129x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(7)_upscaled_illustration_x4129x154_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.basenube.com/assets/parallax.min.js</loc>
+    <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/dylan-gillis-kdeqa3atnby-unsplash-(1).jpg</loc>
     <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -268,14 +262,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>http://www.basenube.com/assets/webp.net-resizeimage-(2).jpg</loc>
+    <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.basenube.com/assets/dylan-gillis-kdeqa3atnby-unsplash-(1).jpg</loc>
-    <lastmod>2019-09-13</lastmod>
+    <loc>http://www.basenube.com/assets/webp.net-resizeimage-(3).jpg</loc>
+    <lastmod>2019-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>
+    <lastmod>2019-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
