@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568823524306">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568823916599">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_fluid-master.css" crc="3996228000" ref="index"/>
@@ -300,5 +300,5 @@
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u243801.png" crc="460842502" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u243801_2x.png" crc="4291336977" ref="index"/>
   </folder>
-  <file name="index.html" crc="3873457867" seo="true" mt="1568823250028" redirect="true"/>
+  <file name="index.html" crc="56691773" seo="true" mt="1568823899976" redirect="true"/>
 </manifest>
