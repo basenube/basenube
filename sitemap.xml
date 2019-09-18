@@ -231,21 +231,18 @@
       <image:loc>http://www.basenube.com/images/156640115937376213%20(9)43x44_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4194x194.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4194x194_2x.png</image:loc>
+      <image:loc>http://www.basenube.com/images/basenube.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.basenube.com/assets/parallax.min.js</loc>
     <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>
+    <lastmod>2019-09-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -262,20 +259,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.basenube.com/assets/webp.net-resizeimage-(2).jpg</loc>
-    <lastmod>2019-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.basenube.com/assets/webp.net-resizeimage-(3).jpg</loc>
     <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>
+    <loc>http://www.basenube.com/assets/no-pattern.png</loc>
     <lastmod>2019-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.basenube.com/assets/webp.net-resizeimage-(2).jpg</loc>
+    <lastmod>2019-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

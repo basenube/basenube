@@ -1,18 +1,19 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568823916599">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568847399183">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="master_fluid-master.css" crc="3996228000" ref="index"/>
+    <file name="master_fluid-master.css" crc="4241339942" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="422774205" ref="index"/>
-    <file name="index.css" crc="55438760" ref="index"/>
-    <file name="nomq_index.css" crc="473087780" ref="index"/>
+    <file name="index.css" crc="3868826723" ref="index"/>
+    <file name="nomq_index.css" crc="72154717" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
     <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
-    <file name="dylan-gillis-kdeqa3atnby-unsplash-(1).jpg" crc="3788179615" seo="true" mt="1568414410000"/>
     <file name="overlay-pattern.png" crc="4037955743" seo="true" mt="1568667591000"/>
-    <file name="webp.net-resizeimage-(2).jpg" crc="444527866" seo="true" mt="1568731177000"/>
-    <file name="webp.net-resizeimage-(3).jpg" crc="4074355917" seo="true" mt="1568731487000"/>
+    <file name="dylan-gillis-kdeqa3atnby-unsplash-(1).jpg" crc="4215889976" seo="true" mt="1568414410000"/>
+    <file name="webp.net-resizeimage-(2).jpg" crc="4101785269" seo="true" mt="1568731177000"/>
+    <file name="webp.net-resizeimage-(3).jpg" crc="133915593" seo="true" mt="1568731487000"/>
+    <file name="no-pattern.png" crc="3774719328" seo="true" mt="1568667474000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -285,20 +286,12 @@
     <file name="156640115937376213 (9)43x44_2x.png" crc="290845493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(11)_upscaled_illustration_x4.png" crc="3956192661" seo="true" ref="index">
+    <file name="basenube.png" crc="438787145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(11)_upscaled_illustration_x4_2x.png" crc="348822524" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage-(11)_upscaled_illustration_x4194x194.png" crc="4271048518" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage-(11)_upscaled_illustration_x4194x194_2x.png" crc="4188157096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u243801.png" crc="460842502" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u243801_2x.png" crc="4291336977" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u245241.png" crc="4146561895" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u245241_2x.png" crc="179819317" ref="index"/>
   </folder>
-  <file name="index.html" crc="56691773" seo="true" mt="1568823899976" redirect="true"/>
+  <file name="index.html" crc="63848969" seo="true" mt="1568847342635" redirect="true"/>
 </manifest>
