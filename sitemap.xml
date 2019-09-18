@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.basenube.com/images/basenube.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.basenube.com/images/fog-png-photo.png</image:loc>
     </image:image>
     <image:image>
@@ -232,6 +229,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/156640115937376213%20(9)43x44_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4194x194.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/webpnet-resizeimage-(11)_upscaled_illustration_x4194x194_2x.png</image:loc>
     </image:image>
   </url>
   <url>
