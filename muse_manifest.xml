@@ -1,4 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568743009413">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568819708259">
+  <folder name="css">
+    <file name="site_global.css" crc="4241819529"/>
+    <file name="master_fluid-master.css" crc="3996228000" ref="index"/>
+    <file name="nomq_preview_master_fluid-master.css" crc="422774205" ref="index"/>
+    <file name="index.css" crc="4276343601" ref="index"/>
+    <file name="nomq_index.css" crc="4231291904" ref="index"/>
+  </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
     <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
@@ -7,496 +14,26 @@
     <file name="webp.net-resizeimage-(2).jpg" crc="444527866" seo="true" mt="1568731177000"/>
     <file name="webp.net-resizeimage-(3).jpg" crc="4074355917" seo="true" mt="1568731487000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="4241819529"/>
-    <file name="index.css" crc="4004472265" ref="index"/>
-    <file name="nomq_index.css" crc="263916524" ref="index"/>
-    <file name="master_fluid-master.css" crc="4078453118" ref="index"/>
-    <file name="nomq_preview_master_fluid-master.css" crc="4191697298" ref="index"/>
-  </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="65948408" ref="index"/>
-    <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22).png" crc="111252150" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19).png" crc="126638862" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32.png" crc="462028043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="977804-64.png" crc="454649923" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="1_d9mxw4wpvrlxhgg6eap-pg.png" crc="3908181230" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="okta-circle-logo.png" crc="3891734325" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="10.png" crc="17015771" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (24).png" crc="4191879742" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10).png" crc="4017103918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="slack.png" crc="322237175" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156650699048625352.gif" crc="4127510701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156691864172424657.png" crc="4049540520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156640115937376213 (9).png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156640115937376213 (6).png" crc="366040744" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156640115937376213 (4).png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="156640115937376213 (10).png" crc="215480981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-      <caption webpage="fluid-object-testing" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (21)_2x.png" crc="4248902655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)_2x.png" crc="4049107722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)_2x.png" crc="4219859225" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32_2x.png" crc="372544508" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="1_d9mxw4wpvrlxhgg6eap-pg_2x.png" crc="3856978245" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="favicon-194x194-bb8de46a94x94.png" crc="345172648" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="favicon-194x194-bb8de46a94x94_2x.png" crc="322561251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="android-chrome-512x51285x85.png" crc="4176611778" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="android-chrome-512x51285x85_2x.png" crc="3765290337" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="okta-circle-logo_2x.png" crc="3943048169" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (24)_2x.png" crc="401778571" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)_2x.png" crc="135516149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="slack_2x.png" crc="3904481600" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156650699048625352_2x.gif" crc="4127510701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="slack_icon45x45.png" crc="224829533" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="slack_icon_2x.png" crc="3989550146" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156691864172424657_2x.png" crc="3950641965" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)_2x.png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)_2x.png" crc="3905829276" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)_2x.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)_2x.png" crc="168441280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-      <caption webpage="fluid---basenube" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)68x68.png" crc="4187648283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)68x68_2x.png" crc="3839273102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (21)63x63.png" crc="124122684" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (21)63x63_2x.png" crc="347702198" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)73x73.png" crc="97513531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)73x73_2x.png" crc="447213722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e3264x64.png" crc="3840326101" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e3264x64_2x.png" crc="4186398911" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="android-chrome-512x51262x62.png" crc="340806508" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="android-chrome-512x51262x62_2x.png" crc="49063554" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="okta-circle-logo67x67.png" crc="40139032" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="okta-circle-logo67x67_2x.png" crc="4243965761" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="1_d9mxw4wpvrlxhgg6eap-pg68x65.png" crc="4020984934" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="1_d9mxw4wpvrlxhgg6eap-pg68x65_2x.png" crc="4270155524" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="favicon-194x194-bb8de46a63x63.png" crc="4237546786" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="favicon-194x194-bb8de46a63x63_2x.png" crc="4272946342" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (24)55x55.png" crc="42497844" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (24)55x55_2x.png" crc="274436187" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)58x58.png" crc="4013610030" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)58x58_2x.png" crc="517544436" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)337x316.png" crc="450000983" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)337x316_2x.png" crc="4209898637" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="slack85x36.png" crc="402128691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="slack85x36_2x.png" crc="4226292701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)43x44.png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)43x44_2x.png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="slack_icon40x40.png" crc="4130043916" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="slack_icon40x40_2x.png" crc="267339635" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)38x39.png" crc="3810566417" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)38x39_2x.png" crc="463590000" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)40x40.png" crc="3907299133" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)40x40_2x.png" crc="168441280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)38x39.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)38x39_2x.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="basenube---cloud,-interoperability-consulting-and-support" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)89x89_2x.png" crc="406562824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (12)-u192431-5-fr.png" crc="370071411" ref="index"/>
-    <file name="output-onlinepngtools (12)-u192431-5-fr_2x.png" crc="88796591" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr.png" crc="261440967" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4279282767" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="3889216366" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="4179678087" ref="index"/>
     <file name="basenubeback-crop (2).jpg" crc="3888118044" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (12)-u192694-5-fr.png" crc="4059007465" ref="index"/>
-    <file name="output-onlinepngtools (12)-u192694-5-fr_2x.png" crc="3843365010" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192694-5-a-fr.png" crc="524966264" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192694-5-a-fr_2x.png" crc="4010667703" ref="index"/>
     <file name="basenube.png" crc="438787145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -504,12 +41,254 @@
     <file name="fog-png-photo.png" crc="495292172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654.png" crc="212495043" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654_2x.png" crc="415081463" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666.png" crc="4018812154" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666_2x.png" crc="4133190843" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678.png" crc="4206615337" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678_2x.png" crc="346674595" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654.png" crc="3858085533" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654_2x.png" crc="4062367084" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666.png" crc="92843422" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666_2x.png" crc="1927378" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678.png" crc="418273285" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678_2x.png" crc="296927362" ref="index"/>
+    <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (21)_2x.png" crc="4248902655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)89x89_2x.png" crc="406562824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19).png" crc="126638862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19)_2x.png" crc="4219859225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32.png" crc="462028043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32_2x.png" crc="372544508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="977804-64.png" crc="454649923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_d9mxw4wpvrlxhgg6eap-pg.png" crc="3908181230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_d9mxw4wpvrlxhgg6eap-pg_2x.png" crc="3856978245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="favicon-194x194-bb8de46a94x94.png" crc="345172648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon-194x194-bb8de46a94x94_2x.png" crc="322561251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="android-chrome-512x51285x85.png" crc="4176611778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="android-chrome-512x51285x85_2x.png" crc="3765290337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okta-circle-logo.png" crc="3891734325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okta-circle-logo_2x.png" crc="3943048169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.png" crc="17015771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24).png" crc="4191879742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24)_2x.png" crc="401778571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22).png" crc="111252150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)_2x.png" crc="4049107722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (12)-u192431-5-fr.png" crc="370071411" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192431-5-fr_2x.png" crc="88796591" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-5-a-fr.png" crc="261440967" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4279282767" ref="index"/>
+    <file name="webpnet-resizeimage (10).png" crc="4017103918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10)_2x.png" crc="135516149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack.png" crc="322237175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_2x.png" crc="3904481600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156650699048625352.gif" crc="4127510701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="3889216366" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="4179678087" ref="index"/>
+    <file name="156650699048625352_2x.gif" crc="4127510701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon45x45.png" crc="224829533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon_2x.png" crc="3989550146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156691864172424657.png" crc="4049540520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156691864172424657_2x.png" crc="3950641965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9).png" crc="290845493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)_2x.png" crc="290845493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6).png" crc="366040744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)_2x.png" crc="3905829276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4).png" crc="200314400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)_2x.png" crc="200314400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10).png" crc="215480981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)_2x.png" crc="168441280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19)68x68.png" crc="4187648283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19)68x68_2x.png" crc="3839273102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (21)63x63.png" crc="124122684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (21)63x63_2x.png" crc="347702198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)73x73.png" crc="97513531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)73x73_2x.png" crc="447213722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e3264x64.png" crc="3840326101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e3264x64_2x.png" crc="4186398911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="android-chrome-512x51262x62.png" crc="340806508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="android-chrome-512x51262x62_2x.png" crc="49063554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okta-circle-logo67x67.png" crc="40139032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okta-circle-logo67x67_2x.png" crc="4243965761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_d9mxw4wpvrlxhgg6eap-pg68x65.png" crc="4020984934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_d9mxw4wpvrlxhgg6eap-pg68x65_2x.png" crc="4270155524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon-194x194-bb8de46a63x63.png" crc="4237546786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon-194x194-bb8de46a63x63_2x.png" crc="4272946342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24)55x55.png" crc="42497844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24)55x55_2x.png" crc="274436187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)58x58.png" crc="4013610030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)58x58_2x.png" crc="517544436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10)337x316.png" crc="450000983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10)337x316_2x.png" crc="4209898637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (12)-u192694-5-fr.png" crc="4059007465" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192694-5-fr_2x.png" crc="3843365010" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192694-5-a-fr.png" crc="524966264" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192694-5-a-fr_2x.png" crc="4010667703" ref="index"/>
+    <file name="slack85x36.png" crc="402128691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack85x36_2x.png" crc="4226292701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon40x40.png" crc="4130043916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon40x40_2x.png" crc="267339635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)38x39.png" crc="3810566417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)38x39_2x.png" crc="463590000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)40x40.png" crc="3907299133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)40x40_2x.png" crc="168441280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)38x39.png" crc="200314400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)38x39_2x.png" crc="200314400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)43x44.png" crc="290845493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)43x44_2x.png" crc="290845493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3844583602" seo="true" mt="1568742925841" redirect="true"/>
+  <file name="index.html" crc="72703367" seo="true" mt="1568819667569" redirect="true"/>
 </manifest>
