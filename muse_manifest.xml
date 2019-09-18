@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568847399183">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568848702352">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_fluid-master.css" crc="4241339942" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="422774205" ref="index"/>
-    <file name="index.css" crc="3868826723" ref="index"/>
-    <file name="nomq_index.css" crc="72154717" ref="index"/>
+    <file name="index.css" crc="459765952" ref="index"/>
+    <file name="nomq_index.css" crc="90797098" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
@@ -293,5 +293,5 @@
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u245241.png" crc="4146561895" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u245241_2x.png" crc="179819317" ref="index"/>
   </folder>
-  <file name="index.html" crc="63848969" seo="true" mt="1568847342635" redirect="true"/>
+  <file name="index.html" crc="250442311" seo="true" mt="1568848613236" redirect="true"/>
 </manifest>
