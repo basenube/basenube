@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568924065416">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568926442031">
   <folder name="css">
     <file name="site_global.css" crc="4281548360"/>
     <file name="master_fluid-master.css" crc="368359081" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="52287017" ref="index"/>
-    <file name="index.css" crc="3791590043" ref="index"/>
-    <file name="nomq_index.css" crc="365274766" ref="index"/>
+    <file name="index.css" crc="261015643" ref="index"/>
+    <file name="nomq_index.css" crc="299417930" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
@@ -298,5 +298,5 @@
     <file name="parralax fdsafdsafdsa-u246919-fr_2x.jpg" crc="4127224263" ref="index"/>
     <file name="parralax fdsafdsafdsa_3-u246931-fr.png" crc="134805467" ref="index"/>
   </folder>
-  <file name="index.html" crc="3932631662" seo="true" mt="1568924036389" redirect="true"/>
+  <file name="index.html" crc="3881227849" seo="true" mt="1568926415638" redirect="true"/>
 </manifest>
