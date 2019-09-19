@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568921280088">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568924065416">
   <folder name="css">
     <file name="site_global.css" crc="4281548360"/>
     <file name="master_fluid-master.css" crc="368359081" ref="index"/>
@@ -298,5 +298,5 @@
     <file name="parralax fdsafdsafdsa-u246919-fr_2x.jpg" crc="4127224263" ref="index"/>
     <file name="parralax fdsafdsafdsa_3-u246931-fr.png" crc="134805467" ref="index"/>
   </folder>
-  <file name="index.html" crc="304408993" seo="true" mt="1568921252549" redirect="true"/>
+  <file name="index.html" crc="3932631662" seo="true" mt="1568924036389" redirect="true"/>
 </manifest>
