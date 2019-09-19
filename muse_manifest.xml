@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568900006088">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1568921280088">
   <folder name="css">
     <file name="site_global.css" crc="4281548360"/>
     <file name="master_fluid-master.css" crc="368359081" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="52287017" ref="index"/>
-    <file name="index.css" crc="23583330" ref="index"/>
-    <file name="nomq_index.css" crc="3938961929" ref="index"/>
+    <file name="index.css" crc="3791590043" ref="index"/>
+    <file name="nomq_index.css" crc="365274766" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
@@ -38,12 +38,12 @@
     <file name="fog-png-photo.png" crc="495292172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654.png" crc="3858085533" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654_2x.png" crc="4062367084" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666.png" crc="92843422" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666_2x.png" crc="1927378" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678.png" crc="418273285" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678_2x.png" crc="296927362" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654.png" crc="472123855" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654_2x.png" crc="4177677811" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666.png" crc="3954260338" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666_2x.png" crc="4004981446" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678.png" crc="132943403" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678_2x.png" crc="167119280" ref="index"/>
     <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -298,5 +298,5 @@
     <file name="parralax fdsafdsafdsa-u246919-fr_2x.jpg" crc="4127224263" ref="index"/>
     <file name="parralax fdsafdsafdsa_3-u246931-fr.png" crc="134805467" ref="index"/>
   </folder>
-  <file name="index.html" crc="3869268436" seo="true" mt="1568899968681" redirect="true"/>
+  <file name="index.html" crc="304408993" seo="true" mt="1568921252549" redirect="true"/>
 </manifest>
