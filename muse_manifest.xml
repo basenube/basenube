@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569161415064">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569253608127">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="master_fluid-master.css" crc="408937676" ref="index"/>
+    <file name="master_fluid-master.css" crc="259417862" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="422774205" ref="index"/>
-    <file name="index.css" crc="430743316" ref="index"/>
-    <file name="nomq_index.css" crc="340921710" ref="index"/>
+    <file name="index.css" crc="4103858315" ref="index"/>
+    <file name="nomq_index.css" crc="290286094" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
@@ -35,41 +35,16 @@
     <file name="basenubeback-crop (2).jpg" crc="3888118044" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fog-png-photo.png" crc="495292172" seo="true" ref="index">
+    <file name="output-onlinepngtools (21)_2x.png" crc="347702198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654.png" crc="4005407385" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242654_2x.png" crc="12592143" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666.png" crc="233747954" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242666_2x.png" crc="4217065266" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678.png" crc="389777448" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u242678_2x.png" crc="3970901858" ref="index"/>
-    <file name="output-onlinepngtools (21).png" crc="76153989" seo="true" ref="index">
+    <file name="output-onlinepngtools (19)_2x.png" crc="3839273102" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (21)_2x.png" crc="4248902655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)89x89.png" crc="518346977" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)89x89_2x.png" crc="406562824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19).png" crc="126638862" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)_2x.png" crc="4219859225" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32.png" crc="462028043" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32_2x.png" crc="372544508" seo="true" ref="index">
+    <file name="logo-terraform-38bd0e32_2x.png" crc="4186398911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="977804-64.png" crc="454649923" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="1_d9mxw4wpvrlxhgg6eap-pg.png" crc="3908181230" seo="true" ref="index">
@@ -102,32 +77,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (24).png" crc="4191879742" seo="true" ref="index">
+    <file name="output-onlinepngtools (24)_2x.png" crc="274436187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (24)_2x.png" crc="401778571" seo="true" ref="index">
+    <file name="output-onlinepngtools (22)_2x.png" crc="447213722" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (22).png" crc="111252150" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)_2x.png" crc="4049107722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (12)-u192431-5-fr.png" crc="370071411" ref="index"/>
-    <file name="output-onlinepngtools (12)-u192431-5-fr_2x.png" crc="88796591" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr.png" crc="261440967" ref="index"/>
-    <file name="output-onlinepngtools (13)-u192431-5-a-fr_2x.png" crc="4279282767" ref="index"/>
-    <file name="webpnet-resizeimage (10).png" crc="4017103918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)_2x.png" crc="135516149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slack.png" crc="322237175" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slack_2x.png" crc="3904481600" seo="true" ref="index">
+    <file name="slack_2x.png" crc="4226292701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="156650699048625352.gif" crc="4127510701" seo="true" ref="index">
@@ -136,72 +92,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786.png" crc="441345124" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u192786_2x.png" crc="304651346" ref="index"/>
     <file name="156650699048625352_2x.gif" crc="4127510701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slack_icon45x45.png" crc="224829533" seo="true" ref="index">
+    <file name="output-onlinepngtools (19)68x68.png" crc="4172470002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slack_icon_2x.png" crc="3989550146" seo="true" ref="index">
+    <file name="output-onlinepngtools (21)63x63.png" crc="4291177412" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="156691864172424657.png" crc="4049540520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156691864172424657_2x.png" crc="3950641965" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="output-onlinepngtools (22)73x73.png" crc="3955456813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="156640115937376213 (9).png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)_2x.png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (6).png" crc="366040744" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)_2x.png" crc="3905829276" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (4).png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)_2x.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (10).png" crc="215480981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)_2x.png" crc="168441280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)68x68.png" crc="4187648283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (19)68x68_2x.png" crc="3839273102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (21)63x63.png" crc="124122684" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (21)63x63_2x.png" crc="347702198" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)73x73.png" crc="97513531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)73x73_2x.png" crc="447213722" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e3264x64.png" crc="3840326101" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e3264x64_2x.png" crc="4186398911" seo="true" ref="index">
+    <file name="logo-terraform-38bd0e3264x64.png" crc="480967575" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="android-chrome-512x51262x62.png" crc="340806508" seo="true" ref="index">
@@ -228,62 +132,20 @@
     <file name="favicon-194x194-bb8de46a63x63_2x.png" crc="4272946342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (24)55x55.png" crc="42497844" seo="true" ref="index">
+    <file name="output-onlinepngtools (24)55x55.png" crc="3848420980" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (24)55x55_2x.png" crc="274436187" seo="true" ref="index">
+    <file name="output-onlinepngtools (22)58x58.png" crc="525067358" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="output-onlinepngtools (22)58x58.png" crc="4013610030" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="output-onlinepngtools (22)58x58_2x.png" crc="517544436" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)337x316.png" crc="450000983" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="webpnet-resizeimage (10)337x316_2x.png" crc="4209898637" seo="true" ref="index">
+    <file name="output-onlinepngtools (22)58x58_2x.png" crc="346431162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="output-onlinepngtools (12)-u192694-5-fr.png" crc="4059007465" ref="index"/>
     <file name="output-onlinepngtools (12)-u192694-5-fr_2x.png" crc="3843365010" ref="index"/>
     <file name="output-onlinepngtools (13)-u192694-5-a-fr.png" crc="524966264" ref="index"/>
     <file name="output-onlinepngtools (13)-u192694-5-a-fr_2x.png" crc="4010667703" ref="index"/>
-    <file name="slack85x36.png" crc="402128691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slack85x36_2x.png" crc="4226292701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slack_icon40x40.png" crc="4130043916" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="slack_icon40x40_2x.png" crc="267339635" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)38x39.png" crc="3810566417" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (6)38x39_2x.png" crc="463590000" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)40x40.png" crc="3907299133" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (10)40x40_2x.png" crc="168441280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)38x39.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (4)38x39_2x.png" crc="200314400" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)43x44.png" crc="290845493" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="156640115937376213 (9)43x44_2x.png" crc="290845493" seo="true" ref="index">
+    <file name="slack85x36.png" crc="110728965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="basenube.png" crc="438787145" seo="true" ref="index">
@@ -297,6 +159,143 @@
     <file name="parralax fdsafdsafdsa-u246919-fr.jpg" crc="3830758770" ref="index"/>
     <file name="parralax fdsafdsafdsa-u246919-fr_2x.jpg" crc="4127224263" ref="index"/>
     <file name="parralax fdsafdsafdsa_3-u246931-fr.png" crc="134805467" ref="index"/>
+    <file name="fog-png-photo-min.png" crc="96378403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (21)-min.png" crc="98138367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (21)-min_2x.png" crc="3827666036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)-min89x89.png" crc="64804996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)-min89x89_2x.png" crc="51844863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19)-min.png" crc="4003999613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (19)-min_2x.png" crc="3911519439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156812480145357056-min.png" crc="4230994564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24) - copy-min.png" crc="3950572310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (24) - copy-min_2x.png" crc="4016863991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)-min.png" crc="318167888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (22)-min_2x.png" crc="394258878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="output-onlinepngtools (12)-u192431-4-fr.png" crc="370071411" ref="index"/>
+    <file name="output-onlinepngtools (12)-u192431-4-fr_2x.png" crc="88796591" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-4-a-fr.png" crc="261440967" ref="index"/>
+    <file name="output-onlinepngtools (13)-u192431-4-a-fr_2x.png" crc="4279282767" ref="index"/>
+    <file name="webpnet-resizeimage (10) - copy-min.png" crc="4100040484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10) - copy-min_2x.png" crc="4100040484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon - copy-min.png" crc="3940699747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon - copy-min_2x.png" crc="416515314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156691864172424657-min.png" crc="460528679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156691864172424657-min_2x.png" crc="106620714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)-min.png" crc="522085655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)-min_2x.png" crc="522085655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)-min.png" crc="4259241737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)-min_2x.png" crc="4259241737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)-min.png" crc="391066709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)-min_2x.png" crc="391066709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)-min.png" crc="3775719540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)-min_2x.png" crc="3775719540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10) - copy-min337x316.png" crc="3796273479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage (10) - copy-min337x316_2x.png" crc="4100040484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon - copy-min40x40.png" crc="19270439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon - copy-min40x40_2x.png" crc="3940699747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)-min38x39.png" crc="4196201939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (6)-min38x39_2x.png" crc="4259241737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)-min40x40.png" crc="526684257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (10)-min40x40_2x.png" crc="3775719540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)-min38x39.png" crc="391066709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (4)-min38x39_2x.png" crc="391066709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)-min43x44.png" crc="522085655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="156640115937376213 (9)-min43x44_2x.png" crc="522085655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u242654.png" crc="3824843101" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u242666.png" crc="3811045075" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u242678.png" crc="3867293406" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u192786.png" crc="495447808" ref="index"/>
+    <file name="slack_icon - copy-min45x45.png" crc="240729433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slack_icon - copy-min45x45_2x.png" crc="3841059994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u192786_2x.png" crc="67020725" ref="index"/>
   </folder>
-  <file name="index.html" crc="200660633" seo="true" mt="1569161397726" redirect="true"/>
+  <file name="index.html" crc="84439472" seo="true" mt="1569253592003" redirect="true"/>
 </manifest>
