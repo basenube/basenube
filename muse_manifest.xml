@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569333747587">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569334321948">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="master_fluid-master.css" crc="3957106503" ref="index"/>
-    <file name="nomq_preview_master_fluid-master.css" crc="3969336672" ref="index"/>
-    <file name="index.css" crc="3995139643" ref="index"/>
+    <file name="master_fluid-master.css" crc="390544609" ref="index"/>
+    <file name="nomq_preview_master_fluid-master.css" crc="14595869" ref="index"/>
+    <file name="index.css" crc="3807475634" ref="index"/>
     <file name="nomq_index.css" crc="428042743" ref="index"/>
   </folder>
   <folder name="assets">
@@ -11,9 +11,6 @@
     <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
     <file name="overlay-pattern.png" crc="4037955743" seo="true" mt="1568667591000"/>
     <file name="dylan-gillis-kdeqa3atnby-unsplash-(1).jpg" crc="4215889976" seo="true" mt="1568414410000"/>
-    <file name="webp.net-resizeimage-(2).jpg" crc="4101785269" seo="true" mt="1568731177000"/>
-    <file name="webp.net-resizeimage-(3).jpg" crc="133915593" seo="true" mt="1568731487000"/>
-    <file name="no-pattern.png" crc="3774719328" seo="true" mt="1568667474000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -297,5 +294,5 @@
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u249633.png" crc="380769553" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-u249633_2x.png" crc="202151457" ref="index"/>
   </folder>
-  <file name="index.html" crc="34134335" seo="true" mt="1569333724180" redirect="true"/>
+  <file name="index.html" crc="352132360" seo="true" mt="1569334297928" redirect="true"/>
 </manifest>
