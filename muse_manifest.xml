@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569532869050">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1569959649204">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
-    <file name="master_fluid-master.css" crc="4281174598" ref="index"/>
-    <file name="nomq_preview_master_fluid-master.css" crc="4209446092" ref="index"/>
-    <file name="index.css" crc="420153574" ref="index"/>
-    <file name="nomq_index.css" crc="3940973195" ref="index"/>
+    <file name="master_fluid-master.css" crc="4252667491" ref="index"/>
+    <file name="nomq_preview_master_fluid-master.css" crc="241627321" ref="index"/>
+    <file name="index.css" crc="3968517331" ref="index"/>
+    <file name="nomq_index.css" crc="363033070" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
@@ -329,26 +329,26 @@
     <file name="adult-back-view-beanie-7368-min.jpg" crc="399478548" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006.png" crc="3768271260" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="3902173492" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006.png" crc="3814633767" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="4079658146" ref="index"/>
     <file name="first plax photo-u257439-fr.png" crc="245685057" ref="index"/>
     <file name="parralax fdsafdsafdsa-min-u257444-fr.png" crc="406513221" ref="index"/>
     <file name="parralax fdsafdsafdsa-min-u257444-fr_2x.png" crc="4048340420" ref="index"/>
     <file name="adult-back-view-beanie-7368-min-u257458-fr.png" crc="3820041566" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u2570062.png" crc="3768271260" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="3902173492" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u2570062.png" crc="3814633767" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="4079658146" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr.png" crc="4059007465" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr_2x.png" crc="3843365010" ref="index"/>
     <file name="output-onlinepngtools (13)-u254018-5-a-fr.png" crc="524966264" ref="index"/>
     <file name="output-onlinepngtools (13)-u254018-5-a-fr_2x.png" crc="4010667703" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257548.png" crc="368870199" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257548.png" crc="4291086758" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257548_2x.png" crc="3934700138" ref="index"/>
-    <file name="fog-png-photo-min1600x750.png" crc="96378403" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="fog-png-photo-min1400x656.png" crc="96378403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="fog-png-photo-min.png" crc="96378403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="365451494" seo="true" mt="1569532780887" redirect="true"/>
+  <file name="index.html" crc="200521797" seo="true" mt="1569959644164" redirect="true"/>
 </manifest>
