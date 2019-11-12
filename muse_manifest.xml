@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1573588894459">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1573590647105">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_fluid-master.css" crc="3948994596" ref="index"/>
