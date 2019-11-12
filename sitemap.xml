@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.basenube.com/index.html</loc>
-    <lastmod>2019-10-29</lastmod>
+    <lastmod>2019-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/977804-64.png</image:loc>
@@ -67,9 +64,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(22)73x73.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e3264x64.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/android-chrome-512x51262x62.png</image:loc>
@@ -127,12 +121,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/output-onlinepngtools%20(19)-min_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.basenube.com/images/156812480145357056-min.png</image:loc>
@@ -239,24 +227,78 @@
     <image:image>
       <image:loc>http://www.basenube.com/images/fog-png-photo-min.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.basenube.com/assets/parallax.min.js</loc>
-    <lastmod>2019-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.basenube.com/assets/parallax.js</loc>
-    <lastmod>2019-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.basenube.com/assets/dylan-gillis-kdeqa3atnby-unsplash-(1).jpg</loc>
-    <lastmod>2019-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon82x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon82x82_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png103x103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png103x103_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png102x102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png102x102_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png73x73.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/azure%20icon%20png73x73_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon66x66.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon66x66_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png-crop-u261728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/gcp%20png-crop-u261728_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x75x75.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x75x75_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon89x89.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/aws-icon89x89_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x84x84.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x84x84_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x61x61.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.basenube.com/images/logo-terraform-38bd0e32-min_2x61x61_2x61x61_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.basenube.com/assets/overlay-pattern.png</loc>

@@ -1,16 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1572385621552">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1573588894459">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_fluid-master.css" crc="3948994596" ref="index"/>
     <file name="nomq_preview_master_fluid-master.css" crc="3771326296" ref="index"/>
-    <file name="index.css" crc="316473773" ref="index"/>
-    <file name="nomq_index.css" crc="3874503030" ref="index"/>
+    <file name="index.css" crc="4239397949" ref="index"/>
+    <file name="nomq_index.css" crc="3850389618" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="parallax.js" crc="3902191193" seo="true" mt="1568413336000"/>
-    <file name="parallax.min.js" crc="385996779" seo="true" mt="1568413336000"/>
     <file name="overlay-pattern.png" crc="4037955743" seo="true" mt="1568667591000"/>
-    <file name="dylan-gillis-kdeqa3atnby-unsplash-(1).jpg" crc="4215889976" seo="true" mt="1568414410000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -37,9 +34,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="output-onlinepngtools (19)_2x.png" crc="3839273102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32_2x.png" crc="4186398911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="977804-64.png" crc="454649923" seo="true" ref="index">
@@ -115,9 +109,6 @@
     <file name="output-onlinepngtools (22)73x73.png" crc="3955456813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-terraform-38bd0e3264x64.png" crc="480967575" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="android-chrome-512x51262x62.png" crc="340806508" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -180,14 +171,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="output-onlinepngtools (19)-min_2x.png" crc="3911519439" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32-min.png" crc="90642006" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-terraform-38bd0e32-min_2x.png" crc="90642006" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -321,10 +304,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006.png" crc="3814633767" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="4079658146" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="3902173492" ref="index"/>
     <file name="adult-back-view-beanie-7368-min-u257458-fr.png" crc="3820041566" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u2570062.png" crc="3814633767" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="4079658146" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="3902173492" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr.png" crc="4059007465" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr_2x.png" crc="3843365010" ref="index"/>
     <file name="output-onlinepngtools (13)-u254018-5-a-fr.png" crc="524966264" ref="index"/>
@@ -337,6 +320,78 @@
     <file name="fog-png-photo-min.png" crc="96378403" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="azure icon png.png" crc="374722345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="azure icon png_2x.png" crc="418785358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon82x82.png" crc="4016378830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon82x82_2x.png" crc="3883546255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png103x103.png" crc="4035616297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png103x103_2x.png" crc="4035616297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="azure icon png102x102.png" crc="400473475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="azure icon png102x102_2x.png" crc="418785358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png.png" crc="4035616297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png_2x.png" crc="4035616297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="azure icon png73x73.png" crc="3789363817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="azure icon png73x73_2x.png" crc="326459506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon66x66.png" crc="3839192336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon66x66_2x.png" crc="296074385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png-crop-u261728.png" crc="490176785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gcp png-crop-u261728_2x.png" crc="4142893706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x75x75.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x75x75_2x.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon89x89.png" crc="4192890171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aws-icon89x89_2x.png" crc="4084466761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x84x84.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x84x84_2x.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x61x61.png" crc="4183280530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-terraform-38bd0e32-min_2x61x61_2x61x61_2x.png" crc="90642006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3973111546" seo="true" mt="1572385581345" redirect="true"/>
+  <file name="index.html" crc="3939819560" seo="true" mt="1573588871302" redirect="true"/>
 </manifest>
