@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1573590647105">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.basenube.com" resolutions="1x,2x" timestamp="1574385435521">
   <folder name="css">
     <file name="site_global.css" crc="4241819529"/>
     <file name="master_fluid-master.css" crc="3948994596" ref="index"/>
@@ -23,7 +23,6 @@
     <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4005005755" ref="index"/>
@@ -304,10 +303,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006.png" crc="3814633767" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="3902173492" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x.png" crc="4079658146" ref="index"/>
     <file name="adult-back-view-beanie-7368-min-u257458-fr.png" crc="3820041566" ref="index"/>
     <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u2570062.png" crc="3814633767" ref="index"/>
-    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="3902173492" ref="index"/>
+    <file name="webpnet-resizeimage-(7)_upscaled_illustration_x4-min-u257006_2x2.png" crc="4079658146" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr.png" crc="4059007465" ref="index"/>
     <file name="output-onlinepngtools (12)-u254018-5-fr_2x.png" crc="3843365010" ref="index"/>
     <file name="output-onlinepngtools (13)-u254018-5-a-fr.png" crc="524966264" ref="index"/>
@@ -362,7 +361,7 @@
     <file name="aws-icon66x66_2x.png" crc="296074385" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gcp png-crop-u261728.png" crc="490176785" seo="true" ref="index">
+    <file name="gcp png-crop-u261728.png" crc="465383883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gcp png-crop-u261728_2x.png" crc="4142893706" seo="true" ref="index">
@@ -393,5 +392,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3939819560" seo="true" mt="1573588871302" redirect="true"/>
+  <file name="index.html" crc="89910339" seo="true" mt="1574384959407" redirect="true"/>
 </manifest>
